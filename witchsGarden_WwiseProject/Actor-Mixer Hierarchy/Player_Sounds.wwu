@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{B9A58BA4-B3F4-49C2-9779-669CAB38E4EB}" SchemaVersion="103">
+	<AudioObjects>
+		<WorkUnit Name="Player_Sounds" ID="{B9A58BA4-B3F4-49C2-9779-669CAB38E4EB}" PersistMode="Standalone">
+			<ChildrenList>
+				<Sound Name="sx_player_walk_outside_04" ID="{C5D07AF6-D64C-47A2-9B25-34515E68AE79}" ShortID="681701827">
+					<PropertyList>
+						<Property Name="Pitch" Type="int32">
+							<ModifierList>
+								<ModifierInfo>
+									<Modifier Name="" ID="{1C9CF444-B520-4ADE-987E-0FB81DE245A8}">
+										<PropertyList>
+											<Property Name="Enabled" Type="bool" Value="True"/>
+											<Property Name="Max" Type="Real64" Value="500"/>
+											<Property Name="Min" Type="Real64" Value="-500"/>
+										</PropertyList>
+									</Modifier>
+								</ModifierInfo>
+							</ModifierList>
+						</Property>
+						<Property Name="Volume" Type="Real64">
+							<ValueList>
+								<Value>-10</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{AAB93B58-7529-495D-940E-A3B27857CEB3}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="SFX" ID="{8B0FE146-CFD5-48BF-B8FD-5405AB9E7CBF}" WorkUnitID="{77E9C423-79E2-4AD8-8471-F0551E3DD3B5}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="sx_player_walk_outside_04" ID="{3167F23E-901B-45CF-B745-25984E33EC7F}">
+							<Language>SFX</Language>
+							<AudioFile>sx_player_walk_outside_04.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="399083133"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ObjectLists/>
+					<ActiveSourceList>
+						<ActiveSource Name="sx_player_walk_outside_04" ID="{3167F23E-901B-45CF-B745-25984E33EC7F}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="sx_player_walk_inside_02" ID="{C10604A0-3BBB-4F7A-A9CE-46315980D8FF}" ShortID="838419734">
+					<PropertyList>
+						<Property Name="Pitch" Type="int32">
+							<ModifierList>
+								<ModifierInfo>
+									<Modifier Name="" ID="{EBCD7AEE-54AB-427E-AFA2-8A5CCC1F7930}">
+										<PropertyList>
+											<Property Name="Enabled" Type="bool" Value="True"/>
+											<Property Name="Max" Type="Real64" Value="500"/>
+											<Property Name="Min" Type="Real64" Value="-500"/>
+										</PropertyList>
+									</Modifier>
+								</ModifierInfo>
+							</ModifierList>
+						</Property>
+						<Property Name="Volume" Type="Real64">
+							<ValueList>
+								<Value>-10</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{AAB93B58-7529-495D-940E-A3B27857CEB3}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="SFX" ID="{8B0FE146-CFD5-48BF-B8FD-5405AB9E7CBF}" WorkUnitID="{77E9C423-79E2-4AD8-8471-F0551E3DD3B5}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="sx_player_walk_inside_02" ID="{88DE64B4-AC8C-451F-A5C1-FE7D6CE74F67}">
+							<Language>SFX</Language>
+							<AudioFile>sx_player_walk_inside_02.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="748704360"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ObjectLists/>
+					<ActiveSourceList>
+						<ActiveSource Name="sx_player_walk_inside_02" ID="{88DE64B4-AC8C-451F-A5C1-FE7D6CE74F67}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="sx_player_door_squeak_01" ID="{187D9E99-DDEC-4931-A756-5940785F807D}" ShortID="876954972">
+					<PropertyList>
+						<Property Name="MakeUpGain" Type="Real64">
+							<ModifierList>
+								<ModifierInfo>
+									<Modifier Name="" ID="{700A7CA2-82D8-4B53-9F80-7E9E0FB968AA}"/>
+								</ModifierInfo>
+							</ModifierList>
+						</Property>
+						<Property Name="Pitch" Type="int32">
+							<ValueList>
+								<Value>-5</Value>
+							</ValueList>
+						</Property>
+						<Property Name="Volume" Type="Real64">
+							<ValueList>
+								<Value>-5</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{AAB93B58-7529-495D-940E-A3B27857CEB3}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="SFX" ID="{8B0FE146-CFD5-48BF-B8FD-5405AB9E7CBF}" WorkUnitID="{77E9C423-79E2-4AD8-8471-F0551E3DD3B5}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="sx_player_door_squeak_01" ID="{366AB150-BDF0-4A89-B23C-4D6A459C5B9B}">
+							<Language>SFX</Language>
+							<AudioFile>sx_player_door_squeak_01.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="16746741"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ObjectLists/>
+					<ActiveSourceList>
+						<ActiveSource Name="sx_player_door_squeak_01" ID="{366AB150-BDF0-4A89-B23C-4D6A459C5B9B}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="sx_player_sleeplullaby_01" ID="{FE1BE818-9D1A-48B3-9538-E4DD4DA5429C}" ShortID="1039694768">
+					<PropertyList>
+						<Property Name="Volume" Type="Real64">
+							<ValueList>
+								<Value>-8</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{AAB93B58-7529-495D-940E-A3B27857CEB3}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="SFX" ID="{8B0FE146-CFD5-48BF-B8FD-5405AB9E7CBF}" WorkUnitID="{77E9C423-79E2-4AD8-8471-F0551E3DD3B5}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="sx_player_sleeplullaby_01" ID="{018AD3B5-AB42-4CA6-A216-AE20E6B4D716}">
+							<Language>SFX</Language>
+							<AudioFile>sx_player_sleeplullaby_01.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="193084505"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ObjectLists/>
+					<ActiveSourceList>
+						<ActiveSource Name="sx_player_sleeplullaby_01" ID="{018AD3B5-AB42-4CA6-A216-AE20E6B4D716}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="sx_player_sleeplullaby_02" ID="{D447925C-F5AC-436D-B06D-6F7C66DDE27D}" ShortID="615710403">
+					<PropertyList>
+						<Property Name="Volume" Type="Real64">
+							<ValueList>
+								<Value>-2</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{AAB93B58-7529-495D-940E-A3B27857CEB3}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{77E9C423-79E2-4AD8-8471-F0551E3DD3B5}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="sx_player_sleeplullaby_02" ID="{264D8A75-38AA-4317-8FF2-B43A44BF21E8}">
+							<Language>SFX</Language>
+							<AudioFile>sx_player_sleeplullaby_02.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="9709903"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ObjectLists/>
+					<ActiveSourceList>
+						<ActiveSource Name="sx_player_sleeplullaby_02" ID="{264D8A75-38AA-4317-8FF2-B43A44BF21E8}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+			</ChildrenList>
+		</WorkUnit>
+	</AudioObjects>
+</WwiseDocument>

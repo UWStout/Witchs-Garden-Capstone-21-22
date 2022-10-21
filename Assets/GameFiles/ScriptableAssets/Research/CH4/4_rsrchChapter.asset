@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb5e0e3ff5506f2468ecdea6f36eb25d, type: 3}
+  m_Name: 4_rsrchChapter
+  m_EditorClassIdentifier: 
+  _chID: 3
+  _chapterName: Chapter IV - Expert Gardening
+  _chapterFlavorTxt: The ultimate guide to focusing!
+  _chResearchItems:
+  - {fileID: 11400000, guid: 0a5ec8dd05e0fbc48bf3f4a9c7a7e52f, type: 2}
+  - {fileID: 11400000, guid: 1efefa00bdbd7374f89de61e4fca0fa4, type: 2}
+  - {fileID: 11400000, guid: 815e52cdd8f7a0e4db3cdc3fea2c177e, type: 2}
+  - {fileID: 11400000, guid: c43b07f54f6ed57419df0d4f7cdacd29, type: 2}

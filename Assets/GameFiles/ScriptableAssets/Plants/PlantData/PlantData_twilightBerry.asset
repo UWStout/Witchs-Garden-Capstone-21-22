@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: be8c88a10fcadc749a0bb34cf6c3d4e9, type: 3}
+  m_Name: PlantData_twilightBerry
+  m_EditorClassIdentifier: 
+  _plantName: Twilight Berry
+  _plantFlavorText: "A plant that hides in the shadows during the day, but emits
+    a soft glow at the signs of nightfall. It may look beautiful, but its berries
+    can be toxic when consumed in high quantities.\_."
+  _ingredientType: {fileID: 11400000, guid: cdbf0d802dead5f438328768adb892ec, type: 2}
+  _baseStartingAttributes:
+    _quality: 50
+    _yieldAmount: 1
+    _youngStateGrowTime: 2

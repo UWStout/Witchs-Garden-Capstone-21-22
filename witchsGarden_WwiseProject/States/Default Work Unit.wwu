@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{B258725B-9F2C-4321-B104-85AA4BAA0510}" SchemaVersion="103">
+	<States>
+		<WorkUnit Name="Default Work Unit" ID="{B258725B-9F2C-4321-B104-85AA4BAA0510}" PersistMode="Standalone">
+			<ChildrenList>
+				<StateGroup Name="New_State_Group" ID="{303369F9-54FC-4ADA-962D-8B0ABA10C2FA}">
+					<ChildrenList>
+						<State Name="None" ID="{E7AE7CDB-009E-4DBE-B5FE-4FD40459A97A}"/>
+						<State Name="House" ID="{F9B4435A-5AE6-461D-A3F7-34541EF96519}"/>
+						<State Name="Garden" ID="{0206A3D3-AFF5-4F53-87FF-11E19AD5BA26}"/>
+						<State Name="Pond" ID="{3F65C199-FD45-42B5-BB89-72C1D9621725}"/>
+						<State Name="Forest" ID="{133F8E7F-DE3A-4BDB-BC86-A43450C93745}"/>
+					</ChildrenList>
+				</StateGroup>
+			</ChildrenList>
+		</WorkUnit>
+	</States>
+</WwiseDocument>

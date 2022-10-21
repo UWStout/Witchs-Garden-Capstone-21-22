@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="12" SoundbankVersion="140">
+	<RootPaths>
+		<ProjectRoot>C:\Users\paynee7752\Documents\SVN\WitchesGarden\witchsGarden_WwiseProject\</ProjectRoot>
+		<SourceFilesRoot>C:\Users\paynee7752\Documents\SVN\WitchesGarden\witchsGarden_WwiseProject\.cache\Mac\</SourceFilesRoot>
+		<SoundBanksRoot>C:\Users\paynee7752\Documents\SVN\WitchesGarden\witchsGarden_WwiseProject\GeneratedSoundBanks\Mac\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>C:\Users\paynee7752\Documents\SVN\WitchesGarden\witchsGarden_WwiseProject\GeneratedSoundBanks\Mac</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX" Hash="3405892381">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+			<GameParameters>
+				<GameParameter Id="988953028" Name="SFXVolume" ObjectPath="\Game Parameters\Default Work Unit\Volume\SFXVolume"/>
+				<GameParameter Id="2346531308" Name="MusicVolume" ObjectPath="\Game Parameters\Default Work Unit\Volume\MusicVolume"/>
+				<GameParameter Id="2918011349" Name="MasterVolume" ObjectPath="\Game Parameters\Default Work Unit\Volume\MasterVolume"/>
+			</GameParameters>
+			<StateGroups>
+				<StateGroup Id="2012657067" Name="New_State_Group" ObjectPath="\States\Default Work Unit\New_State_Group" GUID="{303369F9-54FC-4ADA-962D-8B0ABA10C2FA}">
+					<States>
+						<State Id="748895195" Name="None" ObjectPath="\States\Default Work Unit\New_State_Group\None" GUID="{E7AE7CDB-009E-4DBE-B5FE-4FD40459A97A}"/>
+						<State Id="3720479411" Name="House" ObjectPath="\States\Default Work Unit\New_State_Group\House" GUID="{F9B4435A-5AE6-461D-A3F7-34541EF96519}"/>
+						<State Id="278887670" Name="Garden" ObjectPath="\States\Default Work Unit\New_State_Group\Garden" GUID="{0206A3D3-AFF5-4F53-87FF-11E19AD5BA26}"/>
+						<State Id="1944232204" Name="Pond" ObjectPath="\States\Default Work Unit\New_State_Group\Pond" GUID="{3F65C199-FD45-42B5-BB89-72C1D9621725}"/>
+						<State Id="491961918" Name="Forest" ObjectPath="\States\Default Work Unit\New_State_Group\Forest" GUID="{133F8E7F-DE3A-4BDB-BC86-A43450C93745}"/>
+					</States>
+				</StateGroup>
+			</StateGroups>
+		</SoundBank>
+		<SoundBank Id="3860883983" Language="SFX" Hash="1638311044">
+			<ObjectPath>\SoundBanks\Default Work Unit\Primary_SoundBank</ObjectPath>
+			<ShortName>Primary_SoundBank</ShortName>
+			<Path>Primary_SoundBank.bnk</Path>
+			<IncludedEvents>
+				<Event Id="491961918" Name="Forest" ObjectPath="\Events\Default Work Unit\MX\Forest" MaxAttenuation="0." DurationType="OneShot" DurationMin="0." DurationMax="0.">
+					<ActionSetState>
+						<ActionSetStateEntry Id="491961918" Name="Forest" ObjectPath="\States\Default Work Unit\New_State_Group\Forest"/>
+					</ActionSetState>
+				</Event>
+				<Event Id="278887670" Name="Garden" ObjectPath="\Events\Default Work Unit\MX\Garden" MaxAttenuation="0." DurationType="OneShot" DurationMin="0." DurationMax="0.">
+					<ActionSetState>
+						<ActionSetStateEntry Id="278887670" Name="Garden" ObjectPath="\States\Default Work Unit\New_State_Group\Garden"/>
+					</ActionSetState>
+				</Event>
+				<Event Id="3913785446" Name="Play_erro" ObjectPath="\Events\Default Work Unit\Play_erro" DurationType="OneShot" DurationMin="0.992653" DurationMax="0.992653">
+					<IncludedMemoryFiles>
+						<File Id="617237480" Language="SFX">
+							<ShortName>erro.wav</ShortName>
+							<Path>SFX\erro_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="4023505495" Name="Play_i_like_ya_cut_g_1" ObjectPath="\Events\Default Work Unit\Play_i_like_ya_cut_g_1" DurationType="OneShot" DurationMin="4.713651" DurationMax="4.713651">
+					<IncludedMemoryFiles>
+						<File Id="1052403108" Language="SFX">
+							<ShortName>i-like-ya-cut-g-1.wav</ShortName>
+							<Path>SFX\i-like-ya-cut-g-1_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2150829731" Name="Play_inceptionbutton" ObjectPath="\Events\Default Work Unit\Play_inceptionbutton" DurationType="OneShot" DurationMin="3.030204" DurationMax="3.030204">
+					<IncludedMemoryFiles>
+						<File Id="629651659" Language="SFX">
+							<ShortName>inceptionbutton.wav</ShortName>
+							<Path>SFX\inceptionbutton_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2247144810" Name="Play_movie_1" ObjectPath="\Events\Default Work Unit\Play_movie_1" DurationType="OneShot" DurationMin="0.816979" DurationMax="0.816979">
+					<IncludedMemoryFiles>
+						<File Id="223711640" Language="SFX">
+							<ShortName>movie_1.wav</ShortName>
+							<Path>SFX\movie_1_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2932040671" Name="Play_Music" ObjectPath="\Events\Default Work Unit\MX\Play_Music" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="141523602" Language="SFX">
+							<ShortName>pond_ending_stinger_110bpm_4-4_Length-2M_Intro-0M.wav</ShortName>
+							<Path>SFX\pond_ending_stinger_110bpm_4-4_Length-2M_Intro-0M_D79FB2B7.wem</Path>
+						</File>
+						<File Id="170560204" Language="SFX">
+							<ShortName>garden_main_92bpm_4-4_Length-18M_Intro-0M.wav</ShortName>
+							<Path>SFX\garden_main_92bpm_4-4_Length-18M_Intro-0M_D79FB2B7.wem</Path>
+						</File>
+						<File Id="227509840" Language="SFX">
+							<ShortName>pond_main_110bpm_8-4_Length-13M_Intro-0M.wav</ShortName>
+							<Path>SFX\pond_main_110bpm_8-4_Length-13M_Intro-0M_D79FB2B7.wem</Path>
+						</File>
+						<File Id="353706405" Language="SFX">
+							<ShortName>forest_ending_stinger_130bpm_4-4_Length-2M_Intro-0M.wav</ShortName>
+							<Path>SFX\forest_ending_stinger_130bpm_4-4_Length-2M_Intro-0M_D79FB2B7.wem</Path>
+						</File>
+						<File Id="763417924" Language="SFX">
+							<ShortName>forest_main_130bpm_4-4_Length-33M_Intro-0M.wav</ShortName>
+							<Path>SFX\forest_main_130bpm_4-4_Length-33M_Intro-0M_D79FB2B7.wem</Path>
+						</File>
+						<File Id="1037854253" Language="SFX">
+							<ShortName>garden_ending_stinger_92bpm_4-4_Lengt-1M_Intro-0M.wav</ShortName>
+							<Path>SFX\garden_ending_stinger_92bpm_4-4_Lengt-1M_Intro-0M_D79FB2B7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<SwitchContainers>
+						<SwitchContainer SwitchValue="{3F65C199-FD45-42B5-BB89-72C1D9621725}">
+							<Media>
+								<File Id="141523602"/>
+								<File Id="227509840"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{0206A3D3-AFF5-4F53-87FF-11E19AD5BA26}">
+							<Media>
+								<File Id="170560204"/>
+								<File Id="1037854253"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{F9B4435A-5AE6-461D-A3F7-34541EF96519}">
+							<Media>
+								<File Id="353706405"/>
+								<File Id="763417924"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{133F8E7F-DE3A-4BDB-BC86-A43450C93745}">
+							<Media>
+								<File Id="353706405"/>
+								<File Id="763417924"/>
+							</Media>
+						</SwitchContainer>
+					</SwitchContainers>
+					<ActionSetState>
+						<ActionSetStateEntry Id="278887670" Name="Garden" ObjectPath="\States\Default Work Unit\New_State_Group\Garden"/>
+					</ActionSetState>
+				</Event>
+				<Event Id="4124178736" Name="Play_nioce" ObjectPath="\Events\Default Work Unit\Play_nioce" DurationType="OneShot" DurationMin="3.13576" DurationMax="3.13576">
+					<IncludedMemoryFiles>
+						<File Id="997834555" Language="SFX">
+							<ShortName>nioce.wav</ShortName>
+							<Path>SFX\nioce_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3497873715" Name="Play_shut_down" ObjectPath="\Events\Default Work Unit\Play_shut_down" DurationType="OneShot" DurationMin="3.24" DurationMax="3.24">
+					<IncludedMemoryFiles>
+						<File Id="277357146" Language="SFX">
+							<ShortName>shut_down.wav</ShortName>
+							<Path>SFX\shut_down_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="468166692" Name="Play_succ" ObjectPath="\Events\Default Work Unit\Play_succ" DurationType="OneShot" DurationMin="5." DurationMax="5.">
+					<IncludedMemoryFiles>
+						<File Id="146677523" Language="SFX">
+							<ShortName>succ.wav</ShortName>
+							<Path>SFX\succ_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3812306812" Name="Play_sx_environment_inside_cauldronbubbling_01" ObjectPath="\Events\Default Work Unit\Play_sx_environment_inside_cauldronbubbling_01" MaxAttenuation="4." DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="621684794" Language="SFX">
+							<ShortName>sx_environment_inside_cauldronbubbling_01.wav</ShortName>
+							<Path>SFX\sx_environment_inside_cauldronbubbling_01_D79FB2B7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1693474596" Name="Play_sx_player_chest_close_01" ObjectPath="\Events\Default Work Unit\Play_sx_player_chest_close_01" DurationType="OneShot" DurationMin="2.375" DurationMax="2.375">
+					<IncludedMemoryFiles>
+						<File Id="204322419" Language="SFX">
+							<ShortName>sx_player_chest_close_01.wav</ShortName>
+							<Path>SFX\sx_player_chest_close_01_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1888344096" Name="Play_sx_player_chest_open_01" ObjectPath="\Events\Default Work Unit\Play_sx_player_chest_open_01" DurationType="OneShot" DurationMin="1.484375" DurationMax="1.484375">
+					<IncludedMemoryFiles>
+						<File Id="304644258" Language="SFX">
+							<ShortName>sx_player_chest_open_01.wav</ShortName>
+							<Path>SFX\sx_player_chest_open_01_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="173400953" Name="Play_sx_player_door_squeak_01" ObjectPath="\Events\Default Work Unit\Play_sx_player_door_squeak_01" DurationType="OneShot" DurationMin="0.945853" DurationMax="0.945853">
+					<IncludedMemoryFiles>
+						<File Id="16746741" Language="SFX">
+							<ShortName>sx_player_door_squeak_01.wav</ShortName>
+							<Path>SFX\sx_player_door_squeak_01_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<ActionSetState>
+						<ActionSetStateEntry Id="3720479411" Name="House" ObjectPath="\States\Default Work Unit\New_State_Group\House"/>
+					</ActionSetState>
+				</Event>
+				<Event Id="3803440464" Name="Play_sx_player_sleeplullaby_01" ObjectPath="\Events\Default Work Unit\Play_sx_player_sleeplullaby_01" DurationType="OneShot" DurationMin="6.129625" DurationMax="6.129625">
+					<IncludedMemoryFiles>
+						<File Id="193084505" Language="SFX">
+							<ShortName>sx_player_sleeplullaby_01.wav</ShortName>
+							<Path>SFX\sx_player_sleeplullaby_01_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3803440467" Name="Play_sx_player_sleeplullaby_02" ObjectPath="\Events\Default Work Unit\Play_sx_player_sleeplullaby_02" DurationType="OneShot" DurationMin="3.712" DurationMax="3.712">
+					<IncludedMemoryFiles>
+						<File Id="9709903" Language="SFX">
+							<ShortName>sx_player_sleeplullaby_02.wav</ShortName>
+							<Path>SFX\sx_player_sleeplullaby_02_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<ActionSetState>
+						<ActionSetStateEntry Id="278887670" Name="Garden" ObjectPath="\States\Default Work Unit\New_State_Group\Garden"/>
+					</ActionSetState>
+				</Event>
+				<Event Id="221127587" Name="Play_sx_player_walk_inside_02" ObjectPath="\Events\Default Work Unit\Play_sx_player_walk_inside_02" DurationType="OneShot" DurationMin="0.374577" DurationMax="0.66742">
+					<IncludedMemoryFiles>
+						<File Id="748704360" Language="SFX">
+							<ShortName>sx_player_walk_inside_02.wav</ShortName>
+							<Path>SFX\sx_player_walk_inside_02_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3468938350" Name="Play_sx_player_walk_outside_04" ObjectPath="\Events\Default Work Unit\Play_sx_player_walk_outside_04" DurationType="OneShot" DurationMin="0.374577" DurationMax="0.66742">
+					<IncludedMemoryFiles>
+						<File Id="399083133" Language="SFX">
+							<ShortName>sx_player_walk_outside_04.wav</ShortName>
+							<Path>SFX\sx_player_walk_outside_04_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="4224675870" Name="Play_sx_spell_clone_cast_01" ObjectPath="\Events\Default Work Unit\Play_sx_spell_clone_cast_01" DurationType="OneShot" DurationMin="2.564563" DurationMax="2.564563">
+					<IncludedMemoryFiles>
+						<File Id="231999898" Language="SFX">
+							<ShortName>sx_spell_clone_cast_01.wav</ShortName>
+							<Path>SFX\sx_spell_clone_cast_01_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3871060041" Name="Play_sx_spell_clone_select_01" ObjectPath="\Events\Default Work Unit\Play_sx_spell_clone_select_01" DurationType="OneShot" DurationMin="0.302396" DurationMax="0.302396">
+					<IncludedMemoryFiles>
+						<File Id="177266107" Language="SFX">
+							<ShortName>sx_spell_clone_select_01.wav</ShortName>
+							<Path>SFX\sx_spell_clone_select_01_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2971567460" Name="Play_sx_spell_harvest_01" ObjectPath="\Events\Default Work Unit\Play_sx_spell_harvest_01" DurationType="OneShot" DurationMin="3.595229" DurationMax="3.595229">
+					<IncludedMemoryFiles>
+						<File Id="319427364" Language="SFX">
+							<ShortName>sx_spell_harvest_01.wav</ShortName>
+							<Path>SFX\sx_spell_harvest_01_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2034794957" Name="Play_sx_spell_hybrid_01" ObjectPath="\Events\Default Work Unit\Play_sx_spell_hybrid_01" DurationType="OneShot" DurationMin="2.535083" DurationMax="2.535083">
+					<IncludedMemoryFiles>
+						<File Id="165335144" Language="SFX">
+							<ShortName>sx_spell_hybrid_01.wav</ShortName>
+							<Path>SFX\sx_spell_hybrid_01_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2540358143" Name="Play_sx_spell_potion_apply_01" ObjectPath="\Events\Default Work Unit\Play_sx_spell_potion_apply_01" DurationType="OneShot" DurationMin="3.287083" DurationMax="3.287083">
+					<IncludedMemoryFiles>
+						<File Id="974667475" Language="SFX">
+							<ShortName>sx_spell_potion_apply_01.wav</ShortName>
+							<Path>SFX\sx_spell_potion_apply_01_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2575555323" Name="Play_sx_spell_reverse_01" ObjectPath="\Events\Default Work Unit\Play_sx_spell_reverse_01" DurationType="OneShot" DurationMin="2.415" DurationMax="2.415">
+					<IncludedMemoryFiles>
+						<File Id="889569209" Language="SFX">
+							<ShortName>sx_spell_reverse_01.wav</ShortName>
+							<Path>SFX\sx_spell_reverse_01_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2528012346" Name="Play_sx_spell_seed_01" ObjectPath="\Events\Default Work Unit\Play_sx_spell_seed_01" DurationType="OneShot" DurationMin="2.438979" DurationMax="2.438979">
+					<IncludedMemoryFiles>
+						<File Id="343252436" Language="SFX">
+							<ShortName>sx_spell_seed_01.wav</ShortName>
+							<Path>SFX\sx_spell_seed_01_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3568233619" Name="Play_sx_spell_speedup_01" ObjectPath="\Events\Default Work Unit\Play_sx_spell_speedup_01" DurationType="OneShot" DurationMin="2.515625" DurationMax="2.515625">
+					<IncludedMemoryFiles>
+						<File Id="573314080" Language="SFX">
+							<ShortName>sx_spell_speedup_01.wav</ShortName>
+							<Path>SFX\sx_spell_speedup_01_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2909966198" Name="Play_sx_spell_water_01" ObjectPath="\Events\Default Work Unit\Play_sx_spell_water_01" DurationType="OneShot" DurationMin="3.001052" DurationMax="3.035923">
+					<IncludedMemoryFiles>
+						<File Id="842166203" Language="SFX">
+							<ShortName>sx_spell_water_01.wav</ShortName>
+							<Path>SFX\sx_spell_water_01_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2909966197" Name="Play_sx_spell_water_02" ObjectPath="\Events\Default Work Unit\Play_sx_spell_water_02" DurationType="OneShot" DurationMin="2.924667" DurationMax="2.924667">
+					<IncludedMemoryFiles>
+						<File Id="374550533" Language="SFX">
+							<ShortName>sx_spell_water_02.wav</ShortName>
+							<Path>SFX\sx_spell_water_02_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3640987485" Name="Play_sx_ui_book_close_01" ObjectPath="\Events\Default Work Unit\Play_sx_ui_book_close_01" DurationType="OneShot" DurationMin="0.679229" DurationMax="0.679229">
+					<IncludedMemoryFiles>
+						<File Id="774761775" Language="SFX">
+							<ShortName>sx_ui_book_close_01.wav</ShortName>
+							<Path>SFX\sx_ui_book_close_01_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1029354311" Name="Play_sx_ui_book_open_01" ObjectPath="\Events\Default Work Unit\Play_sx_ui_book_open_01" DurationType="OneShot" DurationMin="0.84375" DurationMax="0.84375">
+					<IncludedMemoryFiles>
+						<File Id="133466872" Language="SFX">
+							<ShortName>sx_ui_book_open_01.wav</ShortName>
+							<Path>SFX\sx_ui_book_open_01_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1690550675" Name="Play_sx_ui_book_pageturn_01" ObjectPath="\Events\Default Work Unit\Play_sx_ui_book_pageturn_01" DurationType="OneShot" DurationMin="0.5625" DurationMax="0.5625">
+					<IncludedMemoryFiles>
+						<File Id="699788534" Language="SFX">
+							<ShortName>sx_ui_book_pageturn_01.wav</ShortName>
+							<Path>SFX\sx_ui_book_pageturn_01_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3021529169" Name="Play_sx_ui_click_01" ObjectPath="\Events\Default Work Unit\Play_sx_ui_click_01" DurationType="OneShot" DurationMin="0.178979" DurationMax="0.178979">
+					<IncludedMemoryFiles>
+						<File Id="251784067" Language="SFX">
+							<ShortName>sx_ui_click_01.wav</ShortName>
+							<Path>SFX\sx_ui_click_01_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2032680078" Name="Play_sx_ui_glassclink_01" ObjectPath="\Events\Default Work Unit\Play_sx_ui_glassclink_01" DurationType="OneShot" DurationMin="0.434917" DurationMax="0.434917">
+					<IncludedMemoryFiles>
+						<File Id="198488642" Language="SFX">
+							<ShortName>sx_ui_glassclink_01.wav</ShortName>
+							<Path>SFX\sx_ui_glassclink_01_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3200067714" Name="Play_sx_ui_moneyching_01" ObjectPath="\Events\Default Work Unit\Play_sx_ui_moneyching_01" DurationType="OneShot" DurationMin="0.786042" DurationMax="0.786042">
+					<IncludedMemoryFiles>
+						<File Id="237222953" Language="SFX">
+							<ShortName>sx_ui_moneyching_01.wav</ShortName>
+							<Path>SFX\sx_ui_moneyching_01_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="401707110" Name="Play_sx_ui_pop_01" ObjectPath="\Events\Default Work Unit\Play_sx_ui_pop_01" DurationType="OneShot" DurationMin="0.180016" DurationMax="0.180016">
+					<IncludedMemoryFiles>
+						<File Id="755499372" Language="SFX">
+							<ShortName>sx_ui_pop_01.wav</ShortName>
+							<Path>SFX\sx_ui_pop_01_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3202891170" Name="Play_sx_ui_shopbell_01" ObjectPath="\Events\Default Work Unit\Play_sx_ui_shopbell_01" DurationType="OneShot" DurationMin="1.550812" DurationMax="1.550812">
+					<IncludedMemoryFiles>
+						<File Id="455862352" Language="SFX">
+							<ShortName>sx_ui_shopbell_01.wav</ShortName>
+							<Path>SFX\sx_ui_shopbell_01_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2117400603" Name="Play_sx_ui_sparkle_01" ObjectPath="\Events\Default Work Unit\Play_sx_ui_sparkle_01" DurationType="OneShot" DurationMin="4." DurationMax="4.">
+					<IncludedMemoryFiles>
+						<File Id="406020803" Language="SFX">
+							<ShortName>sx_ui_sparkle_01.wav</ShortName>
+							<Path>SFX\sx_ui_sparkle_01_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2473472626" Name="Play_sx_ui_tick_01" ObjectPath="\Events\Default Work Unit\Play_sx_ui_tick_01" DurationType="OneShot" DurationMin="0.178979" DurationMax="0.178979">
+					<IncludedMemoryFiles>
+						<File Id="274522999" Language="SFX">
+							<ShortName>sx_ui_tick_01.wav</ShortName>
+							<Path>SFX\sx_ui_tick_01_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="181620374" Name="Play_taco_bell_bong_sfx" ObjectPath="\Events\Default Work Unit\Play_taco_bell_bong_sfx" DurationType="OneShot" DurationMin="1.908005" DurationMax="1.908005">
+					<IncludedMemoryFiles>
+						<File Id="1006239820" Language="SFX">
+							<ShortName>taco-bell-bong-sfx.wav</ShortName>
+							<Path>SFX\taco-bell-bong-sfx_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="729642156" Name="Play_vine_boom" ObjectPath="\Events\Default Work Unit\Play_vine_boom" DurationType="OneShot" DurationMin="1.254943" DurationMax="1.254943">
+					<IncludedMemoryFiles>
+						<File Id="845096454" Language="SFX">
+							<ShortName>vine-boom.wav</ShortName>
+							<Path>SFX\vine-boom_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1944232204" Name="Pond" ObjectPath="\Events\Default Work Unit\MX\Pond" MaxAttenuation="0." DurationType="OneShot" DurationMin="0." DurationMax="0.">
+					<ActionSetState>
+						<ActionSetStateEntry Id="1944232204" Name="Pond" ObjectPath="\States\Default Work Unit\New_State_Group\Pond"/>
+					</ActionSetState>
+				</Event>
+				<Event Id="3086540886" Name="StopAll" ObjectPath="\Events\Default Work Unit\MX\StopAll" MaxAttenuation="0." DurationType="OneShot" DurationMin="0." DurationMax="0."/>
+			</IncludedEvents>
+			<StateGroups>
+				<StateGroup Id="278887670" Name="Garden" ObjectPath="\States\Default Work Unit\New_State_Group\Garden" GUID="{0206A3D3-AFF5-4F53-87FF-11E19AD5BA26}">
+					<States/>
+				</StateGroup>
+				<StateGroup Id="491961918" Name="Forest" ObjectPath="\States\Default Work Unit\New_State_Group\Forest" GUID="{133F8E7F-DE3A-4BDB-BC86-A43450C93745}">
+					<States/>
+				</StateGroup>
+				<StateGroup Id="1944232204" Name="Pond" ObjectPath="\States\Default Work Unit\New_State_Group\Pond" GUID="{3F65C199-FD45-42B5-BB89-72C1D9621725}">
+					<States/>
+				</StateGroup>
+				<StateGroup Id="2012657067" Name="New_State_Group" ObjectPath="\States\Default Work Unit\New_State_Group" GUID="{303369F9-54FC-4ADA-962D-8B0ABA10C2FA}">
+					<States>
+						<State Id="748895195" Name="None" ObjectPath="\States\Default Work Unit\New_State_Group\None" GUID="{E7AE7CDB-009E-4DBE-B5FE-4FD40459A97A}"/>
+						<State Id="3720479411" Name="House" ObjectPath="\States\Default Work Unit\New_State_Group\House" GUID="{F9B4435A-5AE6-461D-A3F7-34541EF96519}"/>
+						<State Id="278887670" Name="Garden" ObjectPath="\States\Default Work Unit\New_State_Group\Garden" GUID="{0206A3D3-AFF5-4F53-87FF-11E19AD5BA26}"/>
+						<State Id="1944232204" Name="Pond" ObjectPath="\States\Default Work Unit\New_State_Group\Pond" GUID="{3F65C199-FD45-42B5-BB89-72C1D9621725}"/>
+						<State Id="491961918" Name="Forest" ObjectPath="\States\Default Work Unit\New_State_Group\Forest" GUID="{133F8E7F-DE3A-4BDB-BC86-A43450C93745}"/>
+					</States>
+				</StateGroup>
+				<StateGroup Id="3720479411" Name="House" ObjectPath="\States\Default Work Unit\New_State_Group\House" GUID="{F9B4435A-5AE6-461D-A3F7-34541EF96519}">
+					<States/>
+				</StateGroup>
+			</StateGroups>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

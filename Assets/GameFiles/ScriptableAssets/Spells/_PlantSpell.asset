@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9141733c7ddb51e478ca2e6982f3ed07, type: 3}
+  m_Name: _PlantSpell
+  m_EditorClassIdentifier: 
+  _spellID: 0
+  _name: Plant Spell
+  _manaCost: 1
+  _requiresItem: 1
+  _spellIcon: {fileID: 21300000, guid: af6c47c3644ae234782457ac5e258905, type: 3}
+  _spellVfx: {fileID: 360000455099154454, guid: ddcb6fbb5e8343f40a4cc444bf611ef0, type: 3}
+  _spellSFX:
+    idInternal: 0
+    valueGuidInternal: 
+    WwiseObjectReference: {fileID: 11400000, guid: afe5bc33fb4701b4990de1e6b43006a6, type: 2}
+  _timedEvents: {fileID: 11400000, guid: 4ac69dcc9054a6847b545db9ee7f640f, type: 2}

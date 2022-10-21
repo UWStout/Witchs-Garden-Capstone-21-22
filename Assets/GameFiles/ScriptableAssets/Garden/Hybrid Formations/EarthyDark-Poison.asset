@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1fdf53ddd53dea44ca296ad0d6496448, type: 3}
+  m_Name: EarthyDark-Poison
+  m_EditorClassIdentifier: 
+  _components:
+  - PlantType: {fileID: 11400000, guid: 88fa5cf3aab0abe4f8549430dbc7a183, type: 2}
+    RelativePos:
+      x: 0
+      z: 0
+  - PlantType: {fileID: 11400000, guid: b4f496216ef0a0044b02afc4219e005d, type: 2}
+    RelativePos:
+      x: 1
+      z: 0
+  - PlantType: {fileID: 11400000, guid: b4f496216ef0a0044b02afc4219e005d, type: 2}
+    RelativePos:
+      x: 0
+      z: -1
+  - PlantType: {fileID: 11400000, guid: 88fa5cf3aab0abe4f8549430dbc7a183, type: 2}
+    RelativePos:
+      x: 1
+      z: -1
+  _resultPlant: {fileID: 11400000, guid: 131abf62fdd98e3429dfe1a236ced98b, type: 2}

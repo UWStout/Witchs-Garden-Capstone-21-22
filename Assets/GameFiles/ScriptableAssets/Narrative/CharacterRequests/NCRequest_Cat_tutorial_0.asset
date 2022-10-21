@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd3e5bbb86424b1d9d75550ef9b81141, type: 3}
+  m_Name: NCRequest_Cat_tutorial_0
+  m_EditorClassIdentifier: 
+  _activationCondition: {fileID: 11400000, guid: 8b4d02b17e5688e479d2a9355b6dd7e6, type: 2}
+  _invalidCondition: {fileID: 11400000, guid: 059576a60e7daec4dbba03b3d81719ae, type: 2}
+  _characterTemplate: {fileID: 11400000, guid: c5db99df7edee9c4a90d091ae009879e, type: 2}
+  _dialogueLines: {fileID: 11400000, guid: f5feabbe11c95c246813b8ce906ec05c, type: 2}
+  _itemRequest:
+    _item: {fileID: 11400000, guid: 78a0d56fbb9da9345a92a1e0eaf3f57c, type: 2}
+    _rewardPayloads:
+    - {fileID: 11400000, guid: 19a04123bd7cc1948b3e81cd24603822, type: 2}

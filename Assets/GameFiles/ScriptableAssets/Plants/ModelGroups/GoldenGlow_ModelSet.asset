@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d12a8c37498b24944887309e6cf2b579, type: 3}
+  m_Name: GoldenGlow_ModelSet
+  m_EditorClassIdentifier: 
+  _seedPrefab: {fileID: 4876376797836978031, guid: a89de9815c233854e98c52a579320806, type: 3}
+  _youngPrefab: {fileID: 2992202304923903908, guid: e468e5628364d5a4cb19b02d982b1ae1, type: 3}
+  _adultPrefab: {fileID: 226332967766830043, guid: 8b3b2a4beddda4b4589a27525bb3fc78, type: 3}
+  _witheringPrefab: {fileID: 9095954122111111596, guid: 3494b4b2ac56dbf47b54b3c2d0a91d19, type: 3}
+  _deathPrefab: {fileID: 1628167126268700485, guid: 617f0e46f63b8d7498ec5b9ff761fa47, type: 3}

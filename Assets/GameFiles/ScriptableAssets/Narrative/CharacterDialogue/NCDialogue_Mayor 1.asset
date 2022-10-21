@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c965e148871f4febb60438c9717575a9, type: 3}
+  m_Name: NCDialogue_Mayor 1
+  m_EditorClassIdentifier: 
+  _openingLine: "I\u2019ve seen what your Potions can do, they\u2019ve helped many
+    people in this town\u2026 Is there any way you could help me too? It\u2019s urgent\u2026"
+  _middleShopLine: "You have a lot of useful stuff in here\u2026 Hmm, I can stick
+    around while you make my Potion."
+  _closingLine: "Thanks to you, I\u2019ll be cured in no time. Now I know that the
+    town is in good hands if I\u2019m not around. You've helped the whole town! I
+    bestow the title of WINNER upon you!"

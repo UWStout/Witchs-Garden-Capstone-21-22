@@ -1,0 +1,492 @@
+(dp1
+S'rightLegOptions_numHeelTwistBones'
+p2
+(lp3
+I0
+a(lp4
+F0.25098039215686274
+aF0.25098039215686274
+aF0.25098039215686274
+aasS'leftArmOptions_numUpArmTwistBones'
+p5
+(lp6
+I1
+a(lp7
+F0.14999618524452582
+aF0.14999618524452582
+aF0.14999618524452582
+aasVextraJoint/calf_l/leaf/highBoot_top_l (TR)
+p8
+Vcalf_l/leaf/highBoot_top_l (TR)
+p9
+sVextraJoint/jaw/leaf/lip_down_01_l (TR)
+p10
+Vjaw/leaf/lip_down_01_l (TR)
+p11
+sVextraJoint/calf_r/leaf/highBoot_top_r (TR)
+p12
+Vcalf_r/leaf/highBoot_top_r (TR)
+p13
+sVextraJoint/head/leaf/eyelid_upper_l (TR)
+p14
+Vhead/leaf/eyelid_upper_l (TR)
+p15
+sS'torsoOptions_numSpineBones'
+p16
+(lp17
+I3
+a(lp18
+F0.16862745098039217
+aF0.16862745098039217
+aF0.16862745098039217
+aasS'rightFootOptions_numThumbBones'
+p19
+(lp20
+I0
+a(lp21
+F0.16862745098039217
+aF0.16862745098039217
+aF0.16862745098039217
+aasVextraJoint/pelvis/chain/skirt_back (3)
+p22
+Vpelvis/chain/skirt_back (3)
+p23
+sS'rightHandOptions_numIndexBones'
+p24
+(lp25
+I3
+a(lp26
+F0.14999618524452582
+aF0.14999618524452582
+aF0.14999618524452582
+aasVextraJoint/head/leaf/eyebrow_03_r (TR)
+p27
+Vhead/leaf/eyebrow_03_r (TR)
+p28
+sS'leftHandOptions_numRingBones'
+p29
+(lp30
+I3
+a(lp31
+F0.14999618524452582
+aF0.14999618524452582
+aF0.14999618524452582
+aasVextraJoint/spine_03/chain/scarf_tail (6)
+p32
+Vspine_03/chain/scarf_tail (6)
+p33
+sVextraJoint/tongue_01/leaf/tongue_02 (TR)
+p34
+Vtongue_01/leaf/tongue_02 (TR)
+p35
+sS'rightFootOptions_numRingBones'
+p36
+(lp37
+I0
+a(lp38
+F0.16862745098039217
+aF0.16862745098039217
+aF0.16862745098039217
+aasVextraJoint/head/leaf/eye_r (TR)
+p39
+Vhead/leaf/eye_r (TR)
+p40
+sVextraJoint/head/leaf/lip_up (TR)
+p41
+Vhead/leaf/lip_up (TR)
+p42
+sVextraJoint/spine_03/leaf/scarf_back (TR)
+p43
+Vspine_03/leaf/scarf_back (TR)
+p44
+sVextraJoint/jaw/leaf/lip_down (TR)
+p45
+Vjaw/leaf/lip_down (TR)
+p46
+sS'leftHandOptions_numThumbBones'
+p47
+(lp48
+I3
+a(lp49
+F0.16862745098039217
+aF0.16862745098039217
+aF0.16862745098039217
+aasVextraJoint/head/leaf/eyebrow_01_r (TR)
+p50
+Vhead/leaf/eyebrow_01_r (TR)
+p51
+sS'leftFootOptions_numIndexBones'
+p52
+(lp53
+I0
+a(lp54
+F0.16862745098039217
+aF0.16862745098039217
+aF0.16862745098039217
+aasVextraJoint/root/leaf/scarf_r (TR)
+p55
+Vroot/leaf/scarf_r (TR)
+p56
+sVextraJoint/jaw/leaf/lip_down_02_l (TR)
+p57
+Vjaw/leaf/lip_down_02_l (TR)
+p58
+sS'leftFootOptions_numMiddleBones'
+p59
+(lp60
+I0
+a(lp61
+F0.16862745098039217
+aF0.16862745098039217
+aF0.16862745098039217
+aasS'leftLegOptions_numCalfTwistBones'
+p62
+(lp63
+I1
+a(lp64
+F0.16862745098039217
+aF0.16862745098039217
+aF0.16862745098039217
+aasVextraJoint/jaw/leaf/tongue_01 (TR)
+p65
+Vjaw/leaf/tongue_01 (TR)
+p66
+sVextraJoint/foot_r/leaf/boot_ankle_r (TR)
+p67
+Vfoot_r/leaf/boot_ankle_r (TR)
+p68
+sS'leftHandOptions_numIndexBones'
+p69
+(lp70
+I3
+a(lp71
+F0.14999618524452582
+aF0.14999618524452582
+aF0.14999618524452582
+aasS'rightArmOptions_numLowArmTwistBones'
+p72
+(lp73
+I1
+a(lp74
+F0.14999618524452582
+aF0.14999618524452582
+aF0.14999618524452582
+aasVextraJoint/spine_03/leaf/scarf_l (TR)
+p75
+Vspine_03/leaf/scarf_l (TR)
+p76
+sVextraJoint/spine_03/leaf/scarf_front (TR)
+p77
+Vspine_03/leaf/scarf_front (TR)
+p78
+sS'leftHandOptions_numMiddleBones'
+p79
+(lp80
+I3
+a(lp81
+F0.14999618524452582
+aF0.14999618524452582
+aF0.14999618524452582
+aasVextraJoint/pelvis/leaf/belt_pelvis_l (TR)
+p82
+Vpelvis/leaf/belt_pelvis_l (TR)
+p83
+sVextraJoint/head/leaf/eyebrow_02_l (TR)
+p84
+Vhead/leaf/eyebrow_02_l (TR)
+p85
+sS'rightHandOptions_numPinkyBones'
+p86
+(lp87
+I3
+a(lp88
+F0.14999618524452582
+aF0.14999618524452582
+aF0.14999618524452582
+aasVextraJoint/head/chain/antenaHair_01 (4)
+p89
+Vhead/chain/antenaHair_01 (4)
+p90
+sVextraJoint/jaw/leaf/lip_down_02_r (TR)
+p91
+Vjaw/leaf/lip_down_02_r (TR)
+p92
+sVextraJoint/head/leaf/lip_up_02_r (TR)
+p93
+Vhead/leaf/lip_up_02_r (TR)
+p94
+sVextraJoint/head/leaf/eye_l (TR)
+p95
+Vhead/leaf/eye_l (TR)
+p96
+sS'leftFootOptions_numPinkyBones'
+p97
+(lp98
+I0
+a(lp99
+F0.16862745098039217
+aF0.16862745098039217
+aF0.16862745098039217
+aasS'leftLegOptions_numThighTwistBones'
+p100
+(lp101
+I1
+a(lp102
+F0.16862745098039217
+aF0.16862745098039217
+aF0.16862745098039217
+aasS'leftLegIncludeBallJoint_CB'
+p103
+I01
+sS'leftFootOptions_numRingBones'
+p104
+(lp105
+I0
+a(lp106
+F0.16862745098039217
+aF0.16862745098039217
+aF0.16862745098039217
+aasVextraJoint/thigh_r/leaf/belt_thigh_r (TR)
+p107
+Vthigh_r/leaf/belt_thigh_r (TR)
+p108
+sS'rightFootOptions_numPinkyBones'
+p109
+(lp110
+I0
+a(lp111
+F0.16862745098039217
+aF0.16862745098039217
+aF0.16862745098039217
+aasVextraJoint/spine_01/leaf/hip_cloth_02 (TR)
+p112
+Vspine_01/leaf/hip_cloth_02 (TR)
+p113
+sVextraJoint/head/leaf/lip_up_01_r (TR)
+p114
+Vhead/leaf/lip_up_01_r (TR)
+p115
+sS'rightFootOptions_numMiddleBones'
+p116
+(lp117
+I0
+a(lp118
+F0.16862745098039217
+aF0.16862745098039217
+aF0.16862745098039217
+aasS'leftArmOptions_numLowArmTwistBones'
+p119
+(lp120
+I1
+a(lp121
+F0.14999618524452582
+aF0.14999618524452582
+aF0.14999618524452582
+aasVextraJoint/jaw/leaf/lip_up_03_r (TR)
+p122
+Vjaw/leaf/lip_up_03_r (TR)
+p123
+sVextraJoint/head/leaf/lip_up_02_l (TR)
+p124
+Vhead/leaf/lip_up_02_l (TR)
+p125
+sVextraJoint/clavicle_l/leaf/shoulderpad_l (TR)
+p126
+Vclavicle_l/leaf/shoulderpad_l (TR)
+p127
+sS'leftHandOptions_numPinkyBones'
+p128
+(lp129
+I3
+a(lp130
+F0.14999618524452582
+aF0.14999618524452582
+aF0.14999618524452582
+aasS'rightLegOptions_numThighTwistBones'
+p131
+(lp132
+I1
+a(lp133
+F0.16862745098039217
+aF0.16862745098039217
+aF0.16862745098039217
+aasVextraJoint/thigh_l/chain/skirt_l (3)
+p134
+Vthigh_l/chain/skirt_l (3)
+p135
+sVextraJoint/clavicle_r/leaf/shoulderpad_r (TR)
+p136
+Vclavicle_r/leaf/shoulderpad_r (TR)
+p137
+sVextraJoint/head/chain/ponytail (4)
+p138
+Vhead/chain/ponytail (4)
+p139
+sVextraJoint/head/leaf/eyelid_lower_l (TR)
+p140
+Vhead/leaf/eyelid_lower_l (TR)
+p141
+sVextraJoint/head/chain/hairStrand (4)
+p142
+Vhead/chain/hairStrand (4)
+p143
+sS'rightFootOptions_numIndexBones'
+p144
+(lp145
+I0
+a(lp146
+F0.16862745098039217
+aF0.16862745098039217
+aF0.16862745098039217
+aasVextraJoint/thigh_r/leaf/skirt_r (TR)
+p147
+Vthigh_r/leaf/skirt_r (TR)
+p148
+sVextraJoint/upperarm_l/leaf/armCloth_01_l (TR)
+p149
+Vupperarm_l/leaf/armCloth_01_l (TR)
+p150
+sS'rightHandOptions_numRingBones'
+p151
+(lp152
+I3
+a(lp153
+F0.14999618524452582
+aF0.14999618524452582
+aF0.14999618524452582
+aasVextraJoint/head/leaf/eyebrow_03_l (TR)
+p154
+Vhead/leaf/eyebrow_03_l (TR)
+p155
+sVextraJoint/pelvis/jiggle/waistPouch_l
+p156
+Vpelvis/jiggle/waistPouch_l
+p157
+sS'leftFootOptions_numThumbBones'
+p158
+(lp159
+I0
+a(lp160
+F0.16862745098039217
+aF0.16862745098039217
+aF0.16862745098039217
+aasS'leftLegOptions_numHeelTwistBones'
+p161
+(lp162
+I0
+a(lp163
+F0.25098039215686274
+aF0.25098039215686274
+aF0.25098039215686274
+aasVextraJoint/head/leaf/lip_up_01_l (TR)
+p164
+Vhead/leaf/lip_up_01_l (TR)
+p165
+sVextraJoint/spine_03/jiggle/breast_r
+p166
+Vspine_03/jiggle/breast_r
+p167
+sVextraJoint/spine_03/jiggle/breast_l
+p168
+Vspine_03/jiggle/breast_l
+p169
+sS'rightHandOptions_numMiddleBones'
+p170
+(lp171
+I3
+a(lp172
+F0.14999618524452582
+aF0.14999618524452582
+aF0.14999618524452582
+aasS'rightLegOptions_numCalfTwistBones'
+p173
+(lp174
+I1
+a(lp175
+F0.16862745098039217
+aF0.16862745098039217
+aF0.16862745098039217
+aasVextraJoint/head/leaf/eyebrow_01_l (TR)
+p176
+Vhead/leaf/eyebrow_01_l (TR)
+p177
+sVextraJoint/lowerarm_l/leaf/bracer_top_l (TR)
+p178
+Vlowerarm_l/leaf/bracer_top_l (TR)
+p179
+sVextraJoint/foot_l/leaf/boot_ankle_l (TR)
+p180
+Vfoot_l/leaf/boot_ankle_l (TR)
+p181
+sVextraJoint/pelvis/leaf/hip_cloth_01 (TR)
+p182
+Vpelvis/leaf/hip_cloth_01 (TR)
+p183
+sS'rightLegIncludeBallJoint_CB'
+p184
+I01
+sVextraJoint/belt_thigh_r/jiggle/thighPouch_r
+p185
+Vbelt_thigh_r/jiggle/thighPouch_r
+p186
+sVextraJoint/head/leaf/lip_up_03_l (TR)
+p187
+Vhead/leaf/lip_up_03_l (TR)
+p188
+sVextraJoint/jaw/leaf/lip_down_01_r (TR)
+p189
+Vjaw/leaf/lip_down_01_r (TR)
+p190
+sVextraJoint/head/leaf/eyebrow_02_r (TR)
+p191
+Vhead/leaf/eyebrow_02_r (TR)
+p192
+sVextraJoint/head/leaf/jaw (TR)
+p193
+Vhead/leaf/jaw (TR)
+p194
+sS'torsoOptions_numNeckBones'
+p195
+(lp196
+I1
+a(lp197
+F1
+aF0.68000305180437937
+aF0
+aasS'rightHandOptions_numThumbBones'
+p198
+(lp199
+I3
+a(lp200
+F0.16862745098039217
+aF0.16862745098039217
+aF0.16862745098039217
+aasVextraJoint/head/leaf/eyelid_lower_r (TR)
+p201
+Vhead/leaf/eyelid_lower_r (TR)
+p202
+sVextraJoint/head/jiggle/hair_back
+p203
+Vhead/jiggle/hair_back
+p204
+sVextraJoint/lowerarm_r/leaf/bracer_top_r (TR)
+p205
+Vlowerarm_r/leaf/bracer_top_r (TR)
+p206
+sVextraJoint/pelvis/chain/skirt_front (3)
+p207
+Vpelvis/chain/skirt_front (3)
+p208
+sVextraJoint/head/leaf/eyelid_upper_r (TR)
+p209
+Vhead/leaf/eyelid_upper_r (TR)
+p210
+sS'rightArmOptions_numUpArmTwistBones'
+p211
+(lp212
+I1
+a(lp213
+F0.14999618524452582
+aF0.14999618524452582
+aF0.14999618524452582
+aas.

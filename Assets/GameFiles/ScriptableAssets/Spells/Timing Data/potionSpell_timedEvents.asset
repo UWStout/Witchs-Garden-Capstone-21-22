@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ece7ce0b37235d04c9bb9eb2c48f5474, type: 3}
+  m_Name: potionSpell_timedEvents
+  m_EditorClassIdentifier: 
+  _animation: {fileID: 1827226128182048838, guid: f0a702631d399bc40ab8ba2074accd77, type: 3}
+  _actionTriggerTime: 1.15
+  _sfxTriggerTime: 0.5
+  _vfxTriggerTime: 0.5
+  _potionAppearTime: 0
+  _potionDisappearTime: 2.6
+  _altAnimation: {fileID: 1827226128182048838, guid: 67a15b9e1abda6847b8cc841d72bcb8c, type: 3}
+  _altActionTriggerTime: 2.05
+  _altSfxTriggerTime: 0.5
+  _altVfxTriggerTime: 0.69
+  _altPotionAppearTime: 0
+  _altPotionDisappearTime: 3.6

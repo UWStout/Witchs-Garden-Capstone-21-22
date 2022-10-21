@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dbc2147c41464bee927581fd684f305d, type: 3}
+  m_Name: 3_Regal
+  m_EditorClassIdentifier: 
+  _ingSlotType: 2
+  _ingSlotTypeSprite: {fileID: 21300000, guid: aa402cba9e9ed984487fb74e628e5439, type: 3}
+  _ingredientName: Regal
+  _level: 3
+  _labelBackground: {fileID: 21300000, guid: 2fd4dbc2a14109e49b7c009a33217630, type: 3}
+  _test: 3

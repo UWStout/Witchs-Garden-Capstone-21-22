@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ee16f503b0f627148873a940f9d6b878, type: 3}
+  m_Name: 3_PotionItem_NightmarePhial
+  m_EditorClassIdentifier: 
+  _ingredientTypes: {fileID: 11400000, guid: 5e805f672a16ef140b75cf359ae67b44, type: 2}
+  _itemName: Phial of Nightmares
+  _flavorText: The drinker will experience horror movies of the mind.
+  _baseValue: 154
+  _itemImage: {fileID: 21300000, guid: 415b0495bd38963459597943d1a2b949, type: 3}
+  _usedOnPlayer: 0
+  _usedOnPlant: 0

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0f7e5b8f40f44345b9dde9cec192e0e0, type: 3}
+  m_Name: TraitGenerator_universal
+  m_EditorClassIdentifier: 
+  _possibleTraits:
+  - PlantTrait: {fileID: 11400000, guid: d4cd69b65941ca84c812302e22bc0ff1, type: 2}
+    SpawnChance: 10
+  - PlantTrait: {fileID: 11400000, guid: e49b5f9d4a4304a42871a2db0dca5fcb, type: 2}
+    SpawnChance: 15
+  - PlantTrait: {fileID: 11400000, guid: aae48ce82fb6ab24eb1ac2e6b900adc4, type: 2}
+    SpawnChance: 20

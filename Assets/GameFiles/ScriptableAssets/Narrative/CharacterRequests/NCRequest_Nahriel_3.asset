@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd3e5bbb86424b1d9d75550ef9b81141, type: 3}
+  m_Name: NCRequest_Nahriel_3
+  m_EditorClassIdentifier: 
+  _activationCondition: {fileID: 11400000, guid: 20327d47fd4a3df449d1332bf7827392, type: 2}
+  _invalidCondition: {fileID: 11400000, guid: 059576a60e7daec4dbba03b3d81719ae, type: 2}
+  _characterTemplate: {fileID: 11400000, guid: 2253dcf6215bd84418cd1484172ca740, type: 2}
+  _dialogueLines: {fileID: 11400000, guid: fa60133176a2fe24bbe6c2d0c6194376, type: 2}
+  _itemRequest:
+    _item: {fileID: 11400000, guid: b2b793017f73ed24593b3bb1da730516, type: 2}
+    _rewardPayloads:
+    - {fileID: 11400000, guid: fed2b9dfe7cb95746bbe8f47ce313ebe, type: 2}
+    - {fileID: 11400000, guid: 14848a360bf32a14d91d141b30f63f42, type: 2}
+  _isStoryRequired: 1

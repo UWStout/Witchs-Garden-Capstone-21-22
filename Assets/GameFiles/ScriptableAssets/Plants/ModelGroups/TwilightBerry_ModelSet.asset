@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d12a8c37498b24944887309e6cf2b579, type: 3}
+  m_Name: TwilightBerry_ModelSet
+  m_EditorClassIdentifier: 
+  _seedPrefab: {fileID: 2727680983589213703, guid: 7283dbff8cd329f408fcf658dbeff09f, type: 3}
+  _youngPrefab: {fileID: 6287409008681715043, guid: 7341cf9c7cea0dc439ce9a6e6afefa89, type: 3}
+  _adultPrefab: {fileID: 3712454239159369905, guid: 54665d05099160144a10904872cada7a, type: 3}
+  _witheringPrefab: {fileID: 2136854902127524715, guid: 2f6ecbb1b8f9d544698a3ce0ec5fda2b, type: 3}
+  _deathPrefab: {fileID: 7883521995152414661, guid: 50b81519f8f3cd94bb525f477d0e93cd, type: 3}

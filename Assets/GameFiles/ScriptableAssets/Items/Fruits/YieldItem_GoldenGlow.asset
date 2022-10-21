@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3bebc241e8b6b444ca5a96a14bbc9e0a, type: 3}
+  m_Name: YieldItem_GoldenGlow
+  m_EditorClassIdentifier: 
+  _plantData: {fileID: 11400000, guid: 42117522177d76b4a82c97bcc8d7163a, type: 2}
+  _flavorText: A stunning flower with golden petals that thrives in the sunlight.
+    Many believe that the flower itself brings good luck and radiates warmth.
+  _itemImage: {fileID: 21300000, guid: 1219f1ef81c645144b5797a51e48d6a3, type: 3}
+  _baseValue: 17

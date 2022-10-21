@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ee16f503b0f627148873a940f9d6b878, type: 3}
+  m_Name: 0_PotionItem_StomachAcheCure
+  m_EditorClassIdentifier: 
+  _ingredientTypes: {fileID: 11400000, guid: 95ec5baef9c93fc43a0cbbf5d1078745, type: 2}
+  _itemName: Stomach Ache Cure
+  _flavorText: Stomach feeling funny? This'll help you get rid of that terrible gas!
+  _baseValue: 25
+  _itemImage: {fileID: 21300000, guid: d7f31b6cbf9b52e4587f33c392caa470, type: 3}
+  _usedOnPlayer: 0
+  _usedOnPlant: 0

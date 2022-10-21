@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd3e5bbb86424b1d9d75550ef9b81141, type: 3}
+  m_Name: NCRequest_Ghost_1
+  m_EditorClassIdentifier: 
+  _activationCondition: {fileID: 11400000, guid: d69801aa94f60d244a847dfc2ac88b61, type: 2}
+  _invalidCondition: {fileID: 11400000, guid: 059576a60e7daec4dbba03b3d81719ae, type: 2}
+  _characterTemplate: {fileID: 11400000, guid: 742a0c26d580ee744a0d8117bb2d1325, type: 2}
+  _dialogueLines: {fileID: 11400000, guid: f4055f9627822134f95bd993130c1956, type: 2}
+  _itemRequest:
+    _item: {fileID: 11400000, guid: f5adb094823ae7d48b67aa2d3f70081b, type: 2}
+    _rewardPayloads:
+    - {fileID: 11400000, guid: a350e8922d773e046a36a9f900095c6d, type: 2}
+    - {fileID: 11400000, guid: 5e6fb8a1b0d23e4429f8cde724285abb, type: 2}
+    - {fileID: 11400000, guid: 3c46b3f57d5feb94387c233d747678ab, type: 2}
+  _isStoryRequired: 1

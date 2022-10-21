@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d12a8c37498b24944887309e6cf2b579, type: 3}
+  m_Name: KingsCrown_ModelSet
+  m_EditorClassIdentifier: 
+  _seedPrefab: {fileID: 919132149155446097, guid: a89e03542bf44584da7bbb7e8d711a65, type: 3}
+  _youngPrefab: {fileID: 919132149155446097, guid: 5248144bbdf0e4342b7fcd66a8146c25, type: 3}
+  _adultPrefab: {fileID: 919132149155446097, guid: d3fac83bcce5faf449293b44f92d0d13, type: 3}
+  _witheringPrefab: {fileID: 2625236453186696036, guid: 28c4349930400a6438240a45268576fb, type: 3}
+  _deathPrefab: {fileID: 919132149155446097, guid: 288d47fbe6ec6d946b8fb2ae808c1a96, type: 3}

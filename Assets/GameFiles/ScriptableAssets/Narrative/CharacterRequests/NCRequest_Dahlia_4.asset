@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd3e5bbb86424b1d9d75550ef9b81141, type: 3}
+  m_Name: NCRequest_Dahlia_4
+  m_EditorClassIdentifier: 
+  _activationCondition: {fileID: 11400000, guid: 8111d0f2230590a4f9bb536401efb522, type: 2}
+  _invalidCondition: {fileID: 11400000, guid: 059576a60e7daec4dbba03b3d81719ae, type: 2}
+  _characterTemplate: {fileID: 11400000, guid: 1ef01d107ebc58c4396d677febf47698, type: 2}
+  _dialogueLines: {fileID: 11400000, guid: 173fdf892e52df54d94ff12cfb476a59, type: 2}
+  _itemRequest:
+    _item: {fileID: 11400000, guid: 0b69ed31aff06ab4787d7745f763c1d7, type: 2}
+    _rewardPayloads:
+    - {fileID: 11400000, guid: fed2b9dfe7cb95746bbe8f47ce313ebe, type: 2}
+    - {fileID: 11400000, guid: 667ec24b16ab6494092f40c751505f8f, type: 2}
+  _isStoryRequired: 1

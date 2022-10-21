@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d12a8c37498b24944887309e6cf2b579, type: 3}
+  m_Name: Starshine_ModelSet
+  m_EditorClassIdentifier: 
+  _seedPrefab: {fileID: 919132149155446097, guid: 4dd7c5ff882e7654d9054562fd29b016, type: 3}
+  _youngPrefab: {fileID: 919132149155446097, guid: cfbaf2d1a87e7ca4381ff74d43ed80b1, type: 3}
+  _adultPrefab: {fileID: 919132149155446097, guid: cc277a4546f001848882f2109620e4ae, type: 3}
+  _witheringPrefab: {fileID: 4839176578754754352, guid: fed984f01189db049a3be56731493a44, type: 3}
+  _deathPrefab: {fileID: 919132149155446097, guid: a2793a132a6c8064ca61cd4c3b30dc57, type: 3}

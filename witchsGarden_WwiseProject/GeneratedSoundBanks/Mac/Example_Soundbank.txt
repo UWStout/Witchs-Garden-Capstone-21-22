@@ -1,0 +1,62 @@
+Event	ID	Name			Wwise Object Path	Notes
+	173400953	Play_sx_player_door_squeak_01			\Default Work Unit\Play_sx_player_door_squeak_01	
+	181620374	Play_taco_bell_bong_sfx			\Default Work Unit\Play_taco_bell_bong_sfx	
+	221127587	Play_sx_player_walk_inside_02			\Default Work Unit\Play_sx_player_walk_inside_02	
+	401707110	Play_sx_ui_pop_01			\Default Work Unit\Play_sx_ui_pop_01	
+	468166692	Play_succ			\Default Work Unit\Play_succ	
+	729642156	Play_vine_boom			\Default Work Unit\Play_vine_boom	
+	1029354311	Play_sx_ui_book_open_01			\Default Work Unit\Play_sx_ui_book_open_01	
+	1690550675	Play_sx_ui_book_pageturn_01			\Default Work Unit\Play_sx_ui_book_pageturn_01	
+	2032680078	Play_sx_ui_glassclink_01			\Default Work Unit\Play_sx_ui_glassclink_01	
+	2034794957	Play_sx_spell_hybrid_01			\Default Work Unit\Play_sx_spell_hybrid_01	
+	2150829731	Play_inceptionbutton			\Default Work Unit\Play_inceptionbutton	
+	2247144810	Play_movie_1			\Default Work Unit\Play_movie_1	
+	2473472626	Play_sx_ui_tick_01			\Default Work Unit\Play_sx_ui_tick_01	
+	2528012346	Play_sx_spell_seed_01			\Default Work Unit\Play_sx_spell_seed_01	
+	2540358143	Play_sx_spell_potion_apply_01			\Default Work Unit\Play_sx_spell_potion_apply_01	
+	2575555323	Play_sx_spell_reverse_01			\Default Work Unit\Play_sx_spell_reverse_01	
+	2909966198	Play_sx_spell_water_01			\Default Work Unit\Play_sx_spell_water_01	
+	2971567460	Play_sx_spell_harvest_01			\Default Work Unit\Play_sx_spell_harvest_01	
+	3021529169	Play_sx_ui_click_01			\Default Work Unit\Play_sx_ui_click_01	
+	3200067714	Play_sx_ui_moneyching_01			\Default Work Unit\Play_sx_ui_moneyching_01	
+	3468938350	Play_sx_player_walk_outside_04			\Default Work Unit\Play_sx_player_walk_outside_04	
+	3497873715	Play_shut_down			\Default Work Unit\Play_shut_down	
+	3568233619	Play_sx_spell_speedup_01			\Default Work Unit\Play_sx_spell_speedup_01	
+	3640987485	Play_sx_ui_book_close_01			\Default Work Unit\Play_sx_ui_book_close_01	
+	3871060041	Play_sx_spell_clone_select_01			\Default Work Unit\Play_sx_spell_clone_select_01	
+	3913785446	Play_erro			\Default Work Unit\Play_erro	
+	4023505495	Play_i_like_ya_cut_g_1			\Default Work Unit\Play_i_like_ya_cut_g_1	
+	4124178736	Play_nioce			\Default Work Unit\Play_nioce	
+	4224675870	Play_sx_spell_clone_cast_01			\Default Work Unit\Play_sx_spell_clone_cast_01	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	16746741	sx_player_door_squeak_01	C:\Users\datzs7565\Documents\SVN\WitchsGarden\witchsGarden_WwiseProject\.cache\Mac\SFX\sx_player_door_squeak_01_10C4C929.wem		\Actor-Mixer Hierarchy\Player_Sounds\sx_player_door_squeak_01		181144
+	133466872	sx_ui_book_open_01	C:\Users\datzs7565\Documents\SVN\WitchsGarden\witchsGarden_WwiseProject\.cache\Mac\SFX\sx_ui_book_open_01_10C4C929.wem		\Actor-Mixer Hierarchy\UI_Sounds\sx_ui_book_open_01		162064
+	146677523	succ	C:\Users\datzs7565\Documents\SVN\WitchsGarden\witchsGarden_WwiseProject\.cache\Mac\SFX\succ_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\succ		882064
+	165335144	sx_spell_hybrid_01	C:\Users\datzs7565\Documents\SVN\WitchsGarden\witchsGarden_WwiseProject\.cache\Mac\SFX\sx_spell_hybrid_01_10C4C929.wem		\Actor-Mixer Hierarchy\Spells\sx_spell_hybrid_01		486800
+	177266107	sx_spell_clone_select_01	C:\Users\datzs7565\Documents\SVN\WitchsGarden\witchsGarden_WwiseProject\.cache\Mac\SFX\sx_spell_clone_select_01_10C4C929.wem		\Actor-Mixer Hierarchy\Spells\sx_spell_clone_select_01		58124
+	198488642	sx_ui_glassclink_01	C:\Users\datzs7565\Documents\SVN\WitchsGarden\witchsGarden_WwiseProject\.cache\Mac\SFX\sx_ui_glassclink_01_10C4C929.wem		\Actor-Mixer Hierarchy\UI_Sounds\sx_ui_glassclink_01		83568
+	223711640	movie_1	C:\Users\datzs7565\Documents\SVN\WitchsGarden\witchsGarden_WwiseProject\.cache\Mac\SFX\movie_1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\movie_1		156924
+	231999898	sx_spell_clone_cast_01	C:\Users\datzs7565\Documents\SVN\WitchsGarden\witchsGarden_WwiseProject\.cache\Mac\SFX\sx_spell_clone_cast_01_10C4C929.wem		\Actor-Mixer Hierarchy\Spells\sx_spell_clone_cast_01		492460
+	237222953	sx_ui_moneyching_01	C:\Users\datzs7565\Documents\SVN\WitchsGarden\witchsGarden_WwiseProject\.cache\Mac\SFX\sx_ui_moneyching_01_10C4C929.wem		\Actor-Mixer Hierarchy\UI_Sounds\sx_ui_moneyching_01		150984
+	251784067	sx_ui_click_01	C:\Users\datzs7565\Documents\SVN\WitchsGarden\witchsGarden_WwiseProject\.cache\Mac\SFX\sx_ui_click_01_10C4C929.wem		\Actor-Mixer Hierarchy\UI_Sounds\sx_ui_click_01		34428
+	274522999	sx_ui_tick_01	C:\Users\datzs7565\Documents\SVN\WitchsGarden\witchsGarden_WwiseProject\.cache\Mac\SFX\sx_ui_tick_01_10C4C929.wem		\Actor-Mixer Hierarchy\UI_Sounds\sx_ui_tick_01		34428
+	277357146	shut_down	C:\Users\datzs7565\Documents\SVN\WitchsGarden\witchsGarden_WwiseProject\.cache\Mac\SFX\shut_down_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\shut_down		622144
+	319427364	sx_spell_harvest_01	C:\Users\datzs7565\Documents\SVN\WitchsGarden\witchsGarden_WwiseProject\.cache\Mac\SFX\sx_spell_harvest_01_10C4C929.wem		\Actor-Mixer Hierarchy\Spells\sx_spell_harvest_01		690348
+	343252436	sx_spell_seed_01	C:\Users\datzs7565\Documents\SVN\WitchsGarden\witchsGarden_WwiseProject\.cache\Mac\SFX\sx_spell_seed_01_10C4C929.wem		\Actor-Mixer Hierarchy\Spells\sx_spell_seed_01		468348
+	399083133	sx_player_walk_outside_04	C:\Users\datzs7565\Documents\SVN\WitchsGarden\witchsGarden_WwiseProject\.cache\Mac\SFX\sx_player_walk_outside_04_10C4C929.wem		\Actor-Mixer Hierarchy\Player_Sounds\sx_player_walk_outside_04		96064
+	573314080	sx_spell_speedup_01	C:\Users\datzs7565\Documents\SVN\WitchsGarden\witchsGarden_WwiseProject\.cache\Mac\SFX\sx_spell_speedup_01_10C4C929.wem		\Actor-Mixer Hierarchy\Spells\sx_spell_speedup_01		483064
+	617237480	erro	C:\Users\datzs7565\Documents\SVN\WitchsGarden\witchsGarden_WwiseProject\.cache\Mac\SFX\erro_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\erro		87616
+	629651659	inceptionbutton	C:\Users\datzs7565\Documents\SVN\WitchsGarden\witchsGarden_WwiseProject\.cache\Mac\SFX\inceptionbutton_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\inceptionbutton		534592
+	699788534	sx_ui_book_pageturn_01	C:\Users\datzs7565\Documents\SVN\WitchsGarden\witchsGarden_WwiseProject\.cache\Mac\SFX\sx_ui_book_pageturn_01_10C4C929.wem		\Actor-Mixer Hierarchy\UI_Sounds\sx_ui_book_pageturn_01		108064
+	748704360	sx_player_walk_inside_02	C:\Users\datzs7565\Documents\SVN\WitchsGarden\witchsGarden_WwiseProject\.cache\Mac\SFX\sx_player_walk_inside_02_10C4C929.wem		\Actor-Mixer Hierarchy\Player_Sounds\sx_player_walk_inside_02		96064
+	755499372	sx_ui_pop_01	C:\Users\datzs7565\Documents\SVN\WitchsGarden\witchsGarden_WwiseProject\.cache\Mac\SFX\sx_ui_pop_01_10C4C929.wem		\Actor-Mixer Hierarchy\UI_Sounds\sx_ui_pop_01		34428
+	774761775	sx_ui_book_close_01	C:\Users\datzs7565\Documents\SVN\WitchsGarden\witchsGarden_WwiseProject\.cache\Mac\SFX\sx_ui_book_close_01_10C4C929.wem		\Actor-Mixer Hierarchy\UI_Sounds\sx_ui_book_close_01		130476
+	842166203	sx_spell_water_01	C:\Users\datzs7565\Documents\SVN\WitchsGarden\witchsGarden_WwiseProject\.cache\Mac\SFX\sx_spell_water_01_10C4C929.wem		\Actor-Mixer Hierarchy\Spells\sx_spell_water_01		579604
+	845096454	vine-boom	C:\Users\datzs7565\Documents\SVN\WitchsGarden\witchsGarden_WwiseProject\.cache\Mac\SFX\vine-boom_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\vine-boom		221436
+	889569209	sx_spell_reverse_01	C:\Users\datzs7565\Documents\SVN\WitchsGarden\witchsGarden_WwiseProject\.cache\Mac\SFX\sx_spell_reverse_01_10C4C929.wem		\Actor-Mixer Hierarchy\Spells\sx_spell_reverse_01		463744
+	974667475	sx_spell_potion_apply_01	C:\Users\datzs7565\Documents\SVN\WitchsGarden\witchsGarden_WwiseProject\.cache\Mac\SFX\sx_spell_potion_apply_01_10C4C929.wem		\Actor-Mixer Hierarchy\Spells\sx_spell_potion_apply_01		631184
+	997834555	nioce	C:\Users\datzs7565\Documents\SVN\WitchsGarden\witchsGarden_WwiseProject\.cache\Mac\SFX\nioce_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\nioce		553212
+	1006239820	taco-bell-bong-sfx	C:\Users\datzs7565\Documents\SVN\WitchsGarden\witchsGarden_WwiseProject\.cache\Mac\SFX\taco-bell-bong-sfx_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\taco-bell-bong-sfx		336636
+	1052403108	i-like-ya-cut-g-1	C:\Users\datzs7565\Documents\SVN\WitchsGarden\witchsGarden_WwiseProject\.cache\Mac\SFX\i-like-ya-cut-g-1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\i-like-ya-cut-g-1		415808
+

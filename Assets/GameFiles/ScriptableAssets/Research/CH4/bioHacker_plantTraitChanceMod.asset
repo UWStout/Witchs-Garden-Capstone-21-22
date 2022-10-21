@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f2fadae7deb84e4496a419338e88b985, type: 3}
+  m_Name: bioHacker_plantTraitChanceMod
+  m_EditorClassIdentifier: 
+  _researchName: Bio Hacker
+  _easyUIDescription: +10% trait carry over chance <i>(clone/hybrid)</i>
+  _icon: {fileID: 21300000, guid: e5d1a6cf60b614f4e94f4c090e80f474, type: 3}
+  _traitModType: 1
+  _modValue: 10

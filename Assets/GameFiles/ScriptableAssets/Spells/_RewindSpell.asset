@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9141733c7ddb51e478ca2e6982f3ed07, type: 3}
+  m_Name: _RewindSpell
+  m_EditorClassIdentifier: 
+  _spellID: 4
+  _name: Rewind Spell
+  _manaCost: 15
+  _requiresItem: 0
+  _spellIcon: {fileID: 21300000, guid: 17aac55c42957d648ac3f170fba9a422, type: 3}
+  _spellVfx: {fileID: 2511971317859710424, guid: c174d19ce3462b94dae1209ee4f409d0, type: 3}
+  _spellSFX:
+    idInternal: 0
+    valueGuidInternal: 
+    WwiseObjectReference: {fileID: 11400000, guid: c385582cb7d123e439bf9c795f3bfebd, type: 2}
+  _timedEvents: {fileID: 11400000, guid: 1723739502f08fe409a79c3e22987cc1, type: 2}

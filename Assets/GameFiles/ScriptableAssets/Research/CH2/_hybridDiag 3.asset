@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7252ff766fcf45599df4213213a0afda, type: 3}
+  m_Name: _hybridDiag 3
+  m_EditorClassIdentifier: 
+  _researchName: Soft Cap (Mellow)
+  _easyUIDescription: Unlocks the formation to make a Soft Cap plant
+  _icon: {fileID: 21300000, guid: d0b0570a6f7ecb94e83a754fcd6d10e9, type: 3}
+  _diagram: {fileID: 11400000, guid: 73811fc0d548d8444adebb61888c1b4c, type: 2}

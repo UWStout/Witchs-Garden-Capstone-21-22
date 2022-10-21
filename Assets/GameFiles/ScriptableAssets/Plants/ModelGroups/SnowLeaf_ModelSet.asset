@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d12a8c37498b24944887309e6cf2b579, type: 3}
+  m_Name: SnowLeaf_ModelSet
+  m_EditorClassIdentifier: 
+  _seedPrefab: {fileID: 919132149155446097, guid: 052229c18de728a43a2808c17e55fcdb, type: 3}
+  _youngPrefab: {fileID: 919132149155446097, guid: 7632d6721cbde364c8ace1523750f6f9, type: 3}
+  _adultPrefab: {fileID: 919132149155446097, guid: f3af42e4bc7ad514bab26e0b419e5db7, type: 3}
+  _witheringPrefab: {fileID: 1706043936674520471, guid: d99bf4e81f2365441871d4d40dae0e25, type: 3}
+  _deathPrefab: {fileID: 919132149155446097, guid: aadbeb24132b79e47ad8d37514d5f1d6, type: 3}

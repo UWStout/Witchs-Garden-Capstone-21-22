@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{01965187-B759-4BBC-8EE3-E8DE5D4B2DB0}" SchemaVersion="103">
+	<AudioObjects>
+		<WorkUnit Name="Default Work Unit" ID="{01965187-B759-4BBC-8EE3-E8DE5D4B2DB0}" PersistMode="Standalone">
+			<ChildrenList>
+				<Sound Name="movie_1" ID="{7FE14C1C-67B9-4443-985F-17F8A0546D7A}" ShortID="1000588498">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{AAB93B58-7529-495D-940E-A3B27857CEB3}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{77E9C423-79E2-4AD8-8471-F0551E3DD3B5}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="movie_1" ID="{3FA0E93C-ECF7-4B2D-B9DA-B56A36ED95CC}">
+							<Language>SFX</Language>
+							<AudioFile>movie_1.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="223711640"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ObjectLists/>
+					<ActiveSourceList>
+						<ActiveSource Name="movie_1" ID="{3FA0E93C-ECF7-4B2D-B9DA-B56A36ED95CC}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="nioce" ID="{4EDECA01-F99B-4622-B787-6317FC8DA5BD}" ShortID="601597625">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{AAB93B58-7529-495D-940E-A3B27857CEB3}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{77E9C423-79E2-4AD8-8471-F0551E3DD3B5}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="nioce" ID="{DA56A331-E66F-4259-BBAC-F62B7B6797EC}">
+							<Language>SFX</Language>
+							<AudioFile>nioce.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="997834555"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ObjectLists/>
+					<ActiveSourceList>
+						<ActiveSource Name="nioce" ID="{DA56A331-E66F-4259-BBAC-F62B7B6797EC}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="vibez-lets-go" ID="{A5B6F596-4826-4F39-8B8E-8020A09042EB}" ShortID="587292781">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{AAB93B58-7529-495D-940E-A3B27857CEB3}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{77E9C423-79E2-4AD8-8471-F0551E3DD3B5}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="vibez-lets-go" ID="{EE7F0E80-8388-4E34-B7FB-E87676D325F1}">
+							<Language>SFX</Language>
+							<AudioFile>vibez-lets-go.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="704243148"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ObjectLists/>
+					<ActiveSourceList>
+						<ActiveSource Name="vibez-lets-go" ID="{EE7F0E80-8388-4E34-B7FB-E87676D325F1}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="i-like-ya-cut-g-1" ID="{F80A446A-1FD5-4A22-AFD1-4EB22049EBB9}" ShortID="370242487">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{AAB93B58-7529-495D-940E-A3B27857CEB3}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{77E9C423-79E2-4AD8-8471-F0551E3DD3B5}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="i-like-ya-cut-g-1" ID="{63DF01C0-E098-4EED-9A71-69B8984D9122}">
+							<Language>SFX</Language>
+							<AudioFile>i-like-ya-cut-g-1.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="1052403108"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ObjectLists/>
+					<ActiveSourceList>
+						<ActiveSource Name="i-like-ya-cut-g-1" ID="{63DF01C0-E098-4EED-9A71-69B8984D9122}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="erro" ID="{5D9D0A9C-E2D0-463A-80D1-ED99560904ED}" ShortID="21936180">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{AAB93B58-7529-495D-940E-A3B27857CEB3}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{77E9C423-79E2-4AD8-8471-F0551E3DD3B5}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="erro" ID="{4E52BB37-4B7E-408E-A167-0C1D829EE7FD}">
+							<Language>SFX</Language>
+							<AudioFile>erro.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="617237480"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ObjectLists/>
+					<ActiveSourceList>
+						<ActiveSource Name="erro" ID="{4E52BB37-4B7E-408E-A167-0C1D829EE7FD}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="vine-boom" ID="{45C82882-F490-463A-AB43-E4B308E4AB8C}" ShortID="352817240">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{AAB93B58-7529-495D-940E-A3B27857CEB3}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{77E9C423-79E2-4AD8-8471-F0551E3DD3B5}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="vine-boom" ID="{F23DCDA2-844C-42A5-849C-B3687473D1B3}">
+							<Language>SFX</Language>
+							<AudioFile>vine-boom.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="845096454"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ObjectLists/>
+					<ActiveSourceList>
+						<ActiveSource Name="vine-boom" ID="{F23DCDA2-844C-42A5-849C-B3687473D1B3}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="inceptionbutton" ID="{FA783AC6-7965-441C-8D13-9938E71F048D}" ShortID="56611391">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{AAB93B58-7529-495D-940E-A3B27857CEB3}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{77E9C423-79E2-4AD8-8471-F0551E3DD3B5}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="inceptionbutton" ID="{C8AD083D-49E6-4C74-9144-2796C933E21A}">
+							<Language>SFX</Language>
+							<AudioFile>inceptionbutton.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="629651659"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ObjectLists/>
+					<ActiveSourceList>
+						<ActiveSource Name="inceptionbutton" ID="{C8AD083D-49E6-4C74-9144-2796C933E21A}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="shut_down" ID="{1FDD7D39-2373-4FFE-815B-E397714412D5}" ShortID="926795576">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{AAB93B58-7529-495D-940E-A3B27857CEB3}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{77E9C423-79E2-4AD8-8471-F0551E3DD3B5}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="shut_down" ID="{27407F77-81AB-442F-9D45-E585F4F9D921}">
+							<Language>SFX</Language>
+							<AudioFile>shut_down.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="277357146"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ObjectLists/>
+					<ActiveSourceList>
+						<ActiveSource Name="shut_down" ID="{27407F77-81AB-442F-9D45-E585F4F9D921}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="succ" ID="{ED4DDC57-69E3-4736-AF9D-01CE778C4CAD}" ShortID="910949905">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{AAB93B58-7529-495D-940E-A3B27857CEB3}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{77E9C423-79E2-4AD8-8471-F0551E3DD3B5}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="succ" ID="{FDBD531C-12C4-43D6-8923-737A881D6053}">
+							<Language>SFX</Language>
+							<AudioFile>succ.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="146677523"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ObjectLists/>
+					<ActiveSourceList>
+						<ActiveSource Name="succ" ID="{FDBD531C-12C4-43D6-8923-737A881D6053}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="taco-bell-bong-sfx" ID="{84DF24D3-605C-4593-98BC-F72FD2AF3669}" ShortID="441773048">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{AAB93B58-7529-495D-940E-A3B27857CEB3}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{77E9C423-79E2-4AD8-8471-F0551E3DD3B5}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="taco-bell-bong-sfx" ID="{2474D610-D470-4AF9-946D-FEEE153A9C32}">
+							<Language>SFX</Language>
+							<AudioFile>taco-bell-bong-sfx.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="1006239820"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ObjectLists/>
+					<ActiveSourceList>
+						<ActiveSource Name="taco-bell-bong-sfx" ID="{2474D610-D470-4AF9-946D-FEEE153A9C32}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+			</ChildrenList>
+		</WorkUnit>
+	</AudioObjects>
+</WwiseDocument>

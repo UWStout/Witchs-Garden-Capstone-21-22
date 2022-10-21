@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c965e148871f4febb60438c9717575a9, type: 3}
+  m_Name: NCDialogue_Red 1
+  m_EditorClassIdentifier: 
+  _openingLine: "Hey! I heard you can make Potions\u2026? I want a Growth Juice Potion
+    so I can keep on scaring Sheppard, he\u2019s in tip-top shape thanks to you.
+    I\u2019ll be in the shop waiting!"
+  _middleShopLine: "Just waiting for my Growth Juice Potion! Can\u2019t wait to be
+    stronger!"
+  _closingLine: "This looks like it\u2019ll do just fine Witch, now it\u2019s my
+    time to shine! Thanks again, bud."

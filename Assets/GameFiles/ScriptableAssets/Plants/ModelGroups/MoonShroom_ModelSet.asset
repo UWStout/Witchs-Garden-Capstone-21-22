@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d12a8c37498b24944887309e6cf2b579, type: 3}
+  m_Name: MoonShroom_ModelSet
+  m_EditorClassIdentifier: 
+  _seedPrefab: {fileID: 7417821160361608177, guid: c3f90bbd44df11e4cbc17d5b66fdcf66, type: 3}
+  _youngPrefab: {fileID: 5922803595345048647, guid: 3d8bcccf2ac13ae4a87e3fc288690577, type: 3}
+  _adultPrefab: {fileID: 8322137579727632139, guid: 3e07f679c04ed6c4ebb5bd70f34a7a52, type: 3}
+  _witheringPrefab: {fileID: 2350517825338499048, guid: 3d7401533673be04a941c9d0ae81272f, type: 3}
+  _deathPrefab: {fileID: 5841620423733469741, guid: 2a05bde8a1080ee46b44bb3aff751350, type: 3}

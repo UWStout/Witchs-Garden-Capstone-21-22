@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c965e148871f4febb60438c9717575a9, type: 3}
+  m_Name: NCDialogue_Nahriel 1
+  m_EditorClassIdentifier: 
+  _openingLine: Hmmm, hello there. I've heard that you're able to craft Potions?
+    I would benefit from a Love Potion meant for... a certain someone. Could you
+    make it for me?
+  _middleShopLine: "How much longer will this take? I just need a Love Potion, that\u2019s
+    all."
+  _closingLine: "Well, I suppose that this will do\u2026. He\u2019ll be mine in no
+    time. Thanks again Witch."

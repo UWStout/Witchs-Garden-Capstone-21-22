@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79a4f613233a2334eae1651535b13e45, type: 3}
+  m_Name: Fences_Prompt 0
+  m_EditorClassIdentifier: 
+  _text: Hey look! The fences on both sides of the garden are gone. There probably
+    isn't too much out in the woods, but we might find a seed or two to plant!
+  _image: {fileID: 21300000, guid: 4513971fe816a5b47a64e43b3f2ce7c6, type: 3}
+  _isDialogueBox: 0

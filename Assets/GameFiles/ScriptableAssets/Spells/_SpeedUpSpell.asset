@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9141733c7ddb51e478ca2e6982f3ed07, type: 3}
+  m_Name: _SpeedUpSpell
+  m_EditorClassIdentifier: 
+  _spellID: 3
+  _name: Speed Up Spell
+  _manaCost: 10
+  _requiresItem: 0
+  _spellIcon: {fileID: 21300000, guid: 27f8f673e762790458bde0a18d16fc16, type: 3}
+  _spellVfx: {fileID: 1925372389417342769, guid: 91e635140136b2d4d8f160df013161e1, type: 3}
+  _spellSFX:
+    idInternal: 0
+    valueGuidInternal: 
+    WwiseObjectReference: {fileID: 11400000, guid: 77610315f8b12684ba0a5fd6d92583d6, type: 2}
+  _timedEvents: {fileID: 11400000, guid: 1723739502f08fe409a79c3e22987cc1, type: 2}

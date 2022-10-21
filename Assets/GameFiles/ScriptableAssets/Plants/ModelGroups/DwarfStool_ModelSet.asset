@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d12a8c37498b24944887309e6cf2b579, type: 3}
+  m_Name: DwarfStool_ModelSet
+  m_EditorClassIdentifier: 
+  _seedPrefab: {fileID: 2262918694865779383, guid: 7b34a812a125fc847850c9d012535229, type: 3}
+  _youngPrefab: {fileID: 3480557819046602082, guid: c978f264482c5894d9f0b35e1518e7a6, type: 3}
+  _adultPrefab: {fileID: 8585382977114788888, guid: 1cadcacffbfd2764f9c691a11e433910, type: 3}
+  _witheringPrefab: {fileID: 7880467056979106359, guid: a81573e61655b4445844e77de2fae7fa, type: 3}
+  _deathPrefab: {fileID: 3480557819046602082, guid: c978f264482c5894d9f0b35e1518e7a6, type: 3}

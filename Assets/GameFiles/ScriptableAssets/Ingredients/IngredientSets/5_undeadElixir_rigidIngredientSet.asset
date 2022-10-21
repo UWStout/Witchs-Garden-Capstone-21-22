@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f6562253b1f4ec29cfc75fb3357e5bd, type: 3}
+  m_Name: 5_undeadElixir_rigidIngredientSet
+  m_EditorClassIdentifier: 
+  _ingredient1: {fileID: 11400000, guid: 996f4b8f0234b494b807c99ee7105f3c, type: 2}
+  _ingredient2: {fileID: 11400000, guid: cdbf0d802dead5f438328768adb892ec, type: 2}
+  _ingredient3: {fileID: 11400000, guid: 62bd95b0c345fee4f8031074322bb1a4, type: 2}

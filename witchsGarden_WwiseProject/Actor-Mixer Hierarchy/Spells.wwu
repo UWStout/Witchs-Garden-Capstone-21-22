@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{C4FDBEB2-746C-47CC-ABF9-2C237203DCFE}" SchemaVersion="103">
+	<AudioObjects>
+		<WorkUnit Name="Spells" ID="{C4FDBEB2-746C-47CC-ABF9-2C237203DCFE}" PersistMode="Standalone">
+			<ChildrenList>
+				<Sound Name="sx_spell_water_01" ID="{C0B8DC63-CCE1-4B7A-913E-519F8854A420}" ShortID="954802507">
+					<PropertyList>
+						<Property Name="Pitch" Type="int32">
+							<ModifierList>
+								<ModifierInfo>
+									<Modifier Name="" ID="{38764858-D5E1-4A69-B260-929670E9F4FC}">
+										<PropertyList>
+											<Property Name="Enabled" Type="bool" Value="True"/>
+											<Property Name="Max" Type="Real64" Value="10"/>
+											<Property Name="Min" Type="Real64" Value="-10"/>
+										</PropertyList>
+									</Modifier>
+								</ModifierInfo>
+							</ModifierList>
+						</Property>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{AAB93B58-7529-495D-940E-A3B27857CEB3}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="SFX" ID="{8B0FE146-CFD5-48BF-B8FD-5405AB9E7CBF}" WorkUnitID="{77E9C423-79E2-4AD8-8471-F0551E3DD3B5}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="sx_spell_water_01" ID="{29C8025E-9676-459E-A8A2-3ABB0CD8D280}">
+							<Language>SFX</Language>
+							<AudioFile>sx_spell_water_01.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="842166203"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ObjectLists/>
+					<ActiveSourceList>
+						<ActiveSource Name="sx_spell_water_01" ID="{29C8025E-9676-459E-A8A2-3ABB0CD8D280}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="sx_spell_seed_01" ID="{D17CC23D-E3C6-42E8-A5F0-4EA81DA6D2D4}" ShortID="435669608">
+					<PropertyList>
+						<Property Name="Volume" Type="Real64">
+							<ValueList>
+								<Value>-2</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{AAB93B58-7529-495D-940E-A3B27857CEB3}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="SFX" ID="{8B0FE146-CFD5-48BF-B8FD-5405AB9E7CBF}" WorkUnitID="{77E9C423-79E2-4AD8-8471-F0551E3DD3B5}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="sx_spell_seed_01" ID="{754054B2-D8AE-4055-BD8F-459B8D05FE0F}">
+							<Language>SFX</Language>
+							<AudioFile>sx_spell_seed_01.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="343252436"/>
+							</MediaIDList>
+						</AudioFileSource>
+						<SourcePlugin Name="Wwise Tone Generator" ID="{C7E4BC1D-B971-4944-8289-ED80DFA57D07}" ShortID="534646653" PluginName="Wwise Tone Generator" CompanyID="0" PluginID="102">
+							<Language>SFX</Language>
+						</SourcePlugin>
+					</ChildrenList>
+					<ObjectLists/>
+					<ActiveSourceList>
+						<ActiveSource Name="sx_spell_seed_01" ID="{754054B2-D8AE-4055-BD8F-459B8D05FE0F}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="sx_spell_harvest_01" ID="{0CD42CA3-FDD3-46EA-89FA-7CE66431C119}" ShortID="357610429">
+					<PropertyList>
+						<Property Name="Pitch" Type="int32">
+							<ModifierList>
+								<ModifierInfo>
+									<Modifier Name="" ID="{E778F352-EE58-40D1-9905-A14B708F8B9C}">
+										<PropertyList>
+											<Property Name="Enabled" Type="bool" Value="True"/>
+										</PropertyList>
+									</Modifier>
+								</ModifierInfo>
+							</ModifierList>
+						</Property>
+						<Property Name="Volume" Type="Real64">
+							<ModifierList>
+								<ModifierInfo>
+									<Modifier Name="" ID="{38AAFC8F-8A0F-4DD1-8F43-853D21DAB9C2}"/>
+								</ModifierInfo>
+							</ModifierList>
+						</Property>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{AAB93B58-7529-495D-940E-A3B27857CEB3}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="SFX" ID="{8B0FE146-CFD5-48BF-B8FD-5405AB9E7CBF}" WorkUnitID="{77E9C423-79E2-4AD8-8471-F0551E3DD3B5}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="sx_spell_harvest_01" ID="{8A52AA4D-B58C-454D-A26B-8408E8928FE3}">
+							<Language>SFX</Language>
+							<AudioFile>sx_spell_harvest_01.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="319427364"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ObjectLists/>
+					<ActiveSourceList>
+						<ActiveSource Name="sx_spell_harvest_01" ID="{8A52AA4D-B58C-454D-A26B-8408E8928FE3}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="sx_spell_speedup_01" ID="{25DBA2C2-2414-430D-82A9-89F599BBE877}" ShortID="764953053">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{AAB93B58-7529-495D-940E-A3B27857CEB3}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="SFX" ID="{8B0FE146-CFD5-48BF-B8FD-5405AB9E7CBF}" WorkUnitID="{77E9C423-79E2-4AD8-8471-F0551E3DD3B5}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="sx_spell_speedup_01" ID="{B16559B9-0398-42CB-8C2D-5A000467E2AC}">
+							<Language>SFX</Language>
+							<AudioFile>sx_spell_speedup_01.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="573314080"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ObjectLists/>
+					<ActiveSourceList>
+						<ActiveSource Name="sx_spell_speedup_01" ID="{B16559B9-0398-42CB-8C2D-5A000467E2AC}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="sx_spell_reverse_01" ID="{15806A7D-DF4A-4B62-AD7F-6FC1E90DEE6C}" ShortID="997835681">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{AAB93B58-7529-495D-940E-A3B27857CEB3}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="SFX" ID="{8B0FE146-CFD5-48BF-B8FD-5405AB9E7CBF}" WorkUnitID="{77E9C423-79E2-4AD8-8471-F0551E3DD3B5}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="sx_spell_reverse_01" ID="{81C2C304-32F6-44E9-8CBE-1C2AB38165D0}">
+							<Language>SFX</Language>
+							<AudioFile>sx_spell_reverse_01.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="889569209"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ObjectLists/>
+					<ActiveSourceList>
+						<ActiveSource Name="sx_spell_reverse_01" ID="{81C2C304-32F6-44E9-8CBE-1C2AB38165D0}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="sx_spell_potion_apply_01" ID="{4AD73735-245A-4795-8417-AC589B44C63F}" ShortID="846209548">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{AAB93B58-7529-495D-940E-A3B27857CEB3}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="SFX" ID="{8B0FE146-CFD5-48BF-B8FD-5405AB9E7CBF}" WorkUnitID="{77E9C423-79E2-4AD8-8471-F0551E3DD3B5}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="sx_spell_potion_apply_01" ID="{F05DE8A1-E2AE-4CF2-93F5-EBF1C6FF8B09}">
+							<Language>SFX</Language>
+							<AudioFile>sx_spell_potion_apply_01.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="974667475"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ObjectLists/>
+					<ActiveSourceList>
+						<ActiveSource Name="sx_spell_potion_apply_01" ID="{F05DE8A1-E2AE-4CF2-93F5-EBF1C6FF8B09}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="sx_spell_hybrid_01" ID="{8AD02E4F-7C2D-4864-84AC-16D87973DAB9}" ShortID="496373656">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{AAB93B58-7529-495D-940E-A3B27857CEB3}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="SFX" ID="{8B0FE146-CFD5-48BF-B8FD-5405AB9E7CBF}" WorkUnitID="{77E9C423-79E2-4AD8-8471-F0551E3DD3B5}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="sx_spell_hybrid_01" ID="{70CD9D2F-2CA2-488E-9D01-804410D3357E}">
+							<Language>SFX</Language>
+							<AudioFile>sx_spell_hybrid_01.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="165335144"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ObjectLists/>
+					<ActiveSourceList>
+						<ActiveSource Name="sx_spell_hybrid_01" ID="{70CD9D2F-2CA2-488E-9D01-804410D3357E}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="sx_spell_clone_select_01" ID="{835DADDF-14DB-44B7-9B08-FFD3DB68266B}" ShortID="427330414">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{AAB93B58-7529-495D-940E-A3B27857CEB3}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="SFX" ID="{8B0FE146-CFD5-48BF-B8FD-5405AB9E7CBF}" WorkUnitID="{77E9C423-79E2-4AD8-8471-F0551E3DD3B5}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="sx_spell_clone_select_01" ID="{8315EA59-D11D-40DF-A832-487849CF9CA7}">
+							<Language>SFX</Language>
+							<AudioFile>sx_spell_clone_select_01.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="177266107"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ObjectLists/>
+					<ActiveSourceList>
+						<ActiveSource Name="sx_spell_clone_select_01" ID="{8315EA59-D11D-40DF-A832-487849CF9CA7}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="sx_spell_clone_cast_01" ID="{2BFF1A90-AEFF-44D8-862E-8B039492259F}" ShortID="123924416">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{AAB93B58-7529-495D-940E-A3B27857CEB3}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="SFX" ID="{8B0FE146-CFD5-48BF-B8FD-5405AB9E7CBF}" WorkUnitID="{77E9C423-79E2-4AD8-8471-F0551E3DD3B5}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="sx_spell_clone_cast_01" ID="{D6DFA638-97AA-462A-A0C7-32F6AB6D35ED}">
+							<Language>SFX</Language>
+							<AudioFile>sx_spell_clone_cast_01.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="231999898"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ObjectLists/>
+					<ActiveSourceList>
+						<ActiveSource Name="sx_spell_clone_cast_01" ID="{D6DFA638-97AA-462A-A0C7-32F6AB6D35ED}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="sx_spell_water_02" ID="{44C74C88-C4D4-4629-82B4-C5A24AAB993F}" ShortID="590386973">
+					<PropertyList>
+						<Property Name="Volume" Type="Real64">
+							<ValueList>
+								<Value>-2</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{AAB93B58-7529-495D-940E-A3B27857CEB3}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{77E9C423-79E2-4AD8-8471-F0551E3DD3B5}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="sx_spell_water_02" ID="{57B9AF0A-F132-43C0-917D-3513E92E0808}">
+							<Language>SFX</Language>
+							<AudioFile>sx_spell_water_02.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="374550533"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ObjectLists/>
+					<ActiveSourceList>
+						<ActiveSource Name="sx_spell_water_02" ID="{57B9AF0A-F132-43C0-917D-3513E92E0808}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+			</ChildrenList>
+		</WorkUnit>
+	</AudioObjects>
+</WwiseDocument>

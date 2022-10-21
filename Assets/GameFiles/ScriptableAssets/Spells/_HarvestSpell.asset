@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9141733c7ddb51e478ca2e6982f3ed07, type: 3}
+  m_Name: _HarvestSpell
+  m_EditorClassIdentifier: 
+  _spellID: 2
+  _name: Harvest Spell
+  _manaCost: 2
+  _requiresItem: 0
+  _spellIcon: {fileID: 21300000, guid: 823594cc865dcd548a2ca0ef4d5ee6bb, type: 3}
+  _spellVfx: {fileID: 2549907289784783186, guid: 50add85c89047584c8acebe3b9b7e429, type: 3}
+  _spellSFX:
+    idInternal: 0
+    valueGuidInternal: 
+    WwiseObjectReference: {fileID: 11400000, guid: 00142caec59f68640aec99ed1f13ccb0, type: 2}
+  _timedEvents: {fileID: 11400000, guid: b160d12ff5a03fa4ba77a8866508b067, type: 2}

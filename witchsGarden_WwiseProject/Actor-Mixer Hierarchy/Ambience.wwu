@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{6FF17BE7-A0E0-4ED7-86A8-4E0C12436022}" SchemaVersion="103">
+	<AudioObjects>
+		<WorkUnit Name="Ambience" ID="{6FF17BE7-A0E0-4ED7-86A8-4E0C12436022}" PersistMode="Standalone">
+			<ChildrenList>
+				<Sound Name="sx_environment_outside_windandbirds_01" ID="{B524B8E2-E5C8-4098-B933-491D86FA32AB}" ShortID="700396177">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{AAB93B58-7529-495D-940E-A3B27857CEB3}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{77E9C423-79E2-4AD8-8471-F0551E3DD3B5}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="sx_environment_outside_windandbirds_01" ID="{EC3EE4E4-9F05-4E28-919A-A981811F4966}">
+							<Language>SFX</Language>
+							<AudioFile>sx_environment_outside_windandbirds_01.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="725569615"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ObjectLists/>
+					<ActiveSourceList>
+						<ActiveSource Name="sx_environment_outside_windandbirds_01" ID="{EC3EE4E4-9F05-4E28-919A-A981811F4966}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="sx_environment_outside_pond_01" ID="{2E1D59EA-DDD8-4E5D-883E-9ACDA4F723D7}" ShortID="207074711">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{AAB93B58-7529-495D-940E-A3B27857CEB3}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="SFX" ID="{8B0FE146-CFD5-48BF-B8FD-5405AB9E7CBF}" WorkUnitID="{77E9C423-79E2-4AD8-8471-F0551E3DD3B5}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="sx_environment_outside_pond_01" ID="{0163BC32-DCF5-439E-BC3B-F070EF259800}">
+							<Language>SFX</Language>
+							<AudioFile>sx_environment_outside_pond_01.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="426579454"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ObjectLists/>
+					<ActiveSourceList>
+						<ActiveSource Name="sx_environment_outside_pond_01" ID="{0163BC32-DCF5-439E-BC3B-F070EF259800}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="sx_environment_inside_cauldronbubbling_01" ID="{AB7C5160-8933-4393-8AF3-B8062BA0A0F7}" ShortID="834157380">
+					<PropertyList>
+						<Property Name="3DSpatialization" Type="int16" Value="1"/>
+						<Property Name="IsLoopingEnabled" Type="bool" Value="True"/>
+						<Property Name="Volume" Type="Real64">
+							<ValueList>
+								<Value>-23</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Attenuation">
+							<ObjectRef Name="Cauldron Attenuation" ID="{CDA2D30F-A163-4D1E-AFA9-ED784AD25434}" WorkUnitID="{BE182B4A-56F6-4A6F-9392-CC444CA4667A}"/>
+						</Reference>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{AAB93B58-7529-495D-940E-A3B27857CEB3}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="SFX" ID="{8B0FE146-CFD5-48BF-B8FD-5405AB9E7CBF}" WorkUnitID="{77E9C423-79E2-4AD8-8471-F0551E3DD3B5}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="sx_environment_inside_cauldronbubbling_01" ID="{5A1430F2-4887-4063-A454-F0A310EEF099}">
+							<Language>SFX</Language>
+							<AudioFile>sx_environment_inside_cauldronbubbling_01.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="621684794"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ObjectLists/>
+					<ActiveSourceList>
+						<ActiveSource Name="sx_environment_inside_cauldronbubbling_01" ID="{5A1430F2-4887-4063-A454-F0A310EEF099}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="sx_environment_outside_windandbirds_02" ID="{14A9AC38-EAD2-48EA-B3CC-0FDB8B323213}" ShortID="506343074">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{AAB93B58-7529-495D-940E-A3B27857CEB3}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{77E9C423-79E2-4AD8-8471-F0551E3DD3B5}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="sx_environment_outside_windandbirds_02" ID="{BD65D5D9-DC27-46B5-8948-72956F2803D7}">
+							<Language>SFX</Language>
+							<AudioFile>sx_environment_outside_windandbirds_02.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="602456192"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ObjectLists/>
+					<ActiveSourceList>
+						<ActiveSource Name="sx_environment_outside_windandbirds_02" ID="{BD65D5D9-DC27-46B5-8948-72956F2803D7}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+			</ChildrenList>
+		</WorkUnit>
+	</AudioObjects>
+</WwiseDocument>

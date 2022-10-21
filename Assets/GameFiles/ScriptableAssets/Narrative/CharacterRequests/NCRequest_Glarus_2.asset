@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd3e5bbb86424b1d9d75550ef9b81141, type: 3}
+  m_Name: NCRequest_Glarus_2
+  m_EditorClassIdentifier: 
+  _activationCondition: {fileID: 11400000, guid: 64810ab556a6fe240bece8816e51aacd, type: 2}
+  _invalidCondition: {fileID: 11400000, guid: 059576a60e7daec4dbba03b3d81719ae, type: 2}
+  _characterTemplate: {fileID: 11400000, guid: 8fb10219cc2fcfa4388bfe89ec581ad5, type: 2}
+  _dialogueLines: {fileID: 11400000, guid: 7e811be7eb247eb43b6e556b45b40b8c, type: 2}
+  _itemRequest:
+    _item: {fileID: 11400000, guid: ae101a8351dd15e4f8e7474cb716112c, type: 2}
+    _rewardPayloads:
+    - {fileID: 11400000, guid: d60e89355fb83a5449691fbaaedba90a, type: 2}
+    - {fileID: 11400000, guid: da214905774716347acbfa8b75c1dd63, type: 2}
+    - {fileID: 11400000, guid: da214905774716347acbfa8b75c1dd63, type: 2}
+  _isStoryRequired: 1

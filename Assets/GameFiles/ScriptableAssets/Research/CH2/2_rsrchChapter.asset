@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb5e0e3ff5506f2468ecdea6f36eb25d, type: 3}
+  m_Name: 2_rsrchChapter
+  m_EditorClassIdentifier: 
+  _chID: 1
+  _chapterName: Chapter II - Hybrid Plans
+  _chapterFlavorTxt: This chapter is dedicated to learning about hybrids
+  _chResearchItems:
+  - {fileID: 11400000, guid: e071e221b2f3fef42b22851341faeaab, type: 2}
+  - {fileID: 11400000, guid: 65f2f42fc71fbe243ac274b524e65002, type: 2}
+  - {fileID: 11400000, guid: 21ebb917b674e2d4c9facc1b1e072f49, type: 2}
+  - {fileID: 11400000, guid: 9033ecfe91077e9408e5dc15d4535a60, type: 2}
+  - {fileID: 11400000, guid: 65dfd55c615bc2e45b6975728b1b036e, type: 2}

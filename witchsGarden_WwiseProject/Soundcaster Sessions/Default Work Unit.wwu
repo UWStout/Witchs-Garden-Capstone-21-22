@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{55AB7C0B-C0FD-49E5-BFA7-20D6BE3467C9}" SchemaVersion="103">
+	<SoundcasterSessions>
+		<WorkUnit Name="Default Work Unit" ID="{55AB7C0B-C0FD-49E5-BFA7-20D6BE3467C9}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundcasterSession Name="New Soundcaster Session" ID="{823C395C-7992-40D3-A745-1D87C1D1A842}">
+					<ModuleList>
+						<Module>
+							<ObjectRef Name="sx_spell_seed_01" ID="{D17CC23D-E3C6-42E8-A5F0-4EA81DA6D2D4}" WorkUnitID="{C4FDBEB2-746C-47CC-ABF9-2C237203DCFE}"/>
+							<Position X="0" Y="0"/>
+						</Module>
+					</ModuleList>
+					<RTPCValueList ShowAll="true">
+						<RTPCValue>
+							<GameParameterRef Name="MasterVolume" ID="{F58AC2E2-220D-40CF-A137-63672ACBDBAE}"/>
+							<Value>50</Value>
+						</RTPCValue>
+						<RTPCValue>
+							<GameParameterRef Name="SFXVolume" ID="{DC5043D3-C7C8-4688-BC99-5C5D63F56195}"/>
+							<Value>50</Value>
+						</RTPCValue>
+						<RTPCValue>
+							<GameParameterRef Name="MusicVolume" ID="{3ABA9253-BA0D-4C9E-8E92-2F722717C304}"/>
+							<Value>50</Value>
+						</RTPCValue>
+					</RTPCValueList>
+					<CurrentStateList ShowAll="true">
+						<CurrentStateRef Name="None" ID="{E7AE7CDB-009E-4DBE-B5FE-4FD40459A97A}"/>
+					</CurrentStateList>
+					<CurrentSwitchList ShowAll="true"/>
+				</SoundcasterSession>
+				<SoundcasterSession Name="Volume Testing" ID="{00577B8B-1375-4415-A399-4CAD54227202}">
+					<ModuleList>
+						<Module>
+							<ObjectRef Name="sx_spell_potion_apply_01" ID="{4AD73735-245A-4795-8417-AC589B44C63F}" WorkUnitID="{C4FDBEB2-746C-47CC-ABF9-2C237203DCFE}"/>
+							<Position X="0" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="sx_environment_inside_cauldronbubbling_01" ID="{AB7C5160-8933-4393-8AF3-B8062BA0A0F7}" WorkUnitID="{6FF17BE7-A0E0-4ED7-86A8-4E0C12436022}"/>
+							<Position X="1" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="sx_environment_outside_pond_01" ID="{2E1D59EA-DDD8-4E5D-883E-9ACDA4F723D7}" WorkUnitID="{6FF17BE7-A0E0-4ED7-86A8-4E0C12436022}"/>
+							<Position X="2" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="sx_environment_outside_windandbirds_01" ID="{B524B8E2-E5C8-4098-B933-491D86FA32AB}" WorkUnitID="{6FF17BE7-A0E0-4ED7-86A8-4E0C12436022}"/>
+							<Position X="3" Y="0"/>
+						</Module>
+					</ModuleList>
+					<RTPCValueList ShowAll="true">
+						<RTPCValue>
+							<GameParameterRef Name="MasterVolume" ID="{F58AC2E2-220D-40CF-A137-63672ACBDBAE}"/>
+							<Value>75</Value>
+						</RTPCValue>
+						<RTPCValue>
+							<GameParameterRef Name="SFXVolume" ID="{DC5043D3-C7C8-4688-BC99-5C5D63F56195}"/>
+							<Value>75</Value>
+						</RTPCValue>
+						<RTPCValue>
+							<GameParameterRef Name="MusicVolume" ID="{3ABA9253-BA0D-4C9E-8E92-2F722717C304}"/>
+							<Value>75</Value>
+						</RTPCValue>
+					</RTPCValueList>
+					<CurrentStateList ShowAll="true">
+						<CurrentStateRef Name="None" ID="{E7AE7CDB-009E-4DBE-B5FE-4FD40459A97A}"/>
+					</CurrentStateList>
+					<CurrentSwitchList ShowAll="true"/>
+				</SoundcasterSession>
+				<SoundcasterSession Name="Music System" ID="{C4445182-0DBD-4BF9-935D-75B27C9A39F7}">
+					<ModuleList>
+						<Module>
+							<ObjectRef Name="Play_Music" ID="{3633ED9B-19B7-45B3-8045-6EAEB1689E33}" WorkUnitID="{121E3634-07EB-4D8A-89E2-87F3642F99BF}"/>
+							<Position X="0" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Pond" ID="{D99584BA-4243-461A-AD7B-19FBB20D1DE1}" WorkUnitID="{121E3634-07EB-4D8A-89E2-87F3642F99BF}"/>
+							<Position X="0" Y="1"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Garden" ID="{AE63377B-2393-4077-9CFC-716EE6C1F64E}" WorkUnitID="{121E3634-07EB-4D8A-89E2-87F3642F99BF}"/>
+							<Position X="1" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Play_sx_player_walk_inside_02" ID="{60337968-AE12-4053-96A8-26F27700CB76}" WorkUnitID="{121E3634-07EB-4D8A-89E2-87F3642F99BF}"/>
+							<Position X="1" Y="1"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Play_sx_player_walk_outside_04" ID="{0EFAB826-49E8-48C0-90EE-968146F789D9}" WorkUnitID="{121E3634-07EB-4D8A-89E2-87F3642F99BF}"/>
+							<Position X="1" Y="2"/>
+						</Module>
+					</ModuleList>
+					<RTPCValueList ShowAll="true">
+						<RTPCValue>
+							<GameParameterRef Name="MasterVolume" ID="{F58AC2E2-220D-40CF-A137-63672ACBDBAE}"/>
+							<Value>50</Value>
+						</RTPCValue>
+						<RTPCValue>
+							<GameParameterRef Name="SFXVolume" ID="{DC5043D3-C7C8-4688-BC99-5C5D63F56195}"/>
+							<Value>50</Value>
+						</RTPCValue>
+						<RTPCValue>
+							<GameParameterRef Name="MusicVolume" ID="{3ABA9253-BA0D-4C9E-8E92-2F722717C304}"/>
+							<Value>1</Value>
+						</RTPCValue>
+					</RTPCValueList>
+					<CurrentStateList ShowAll="true">
+						<CurrentStateRef Name="Pond" ID="{3F65C199-FD45-42B5-BB89-72C1D9621725}"/>
+					</CurrentStateList>
+					<CurrentSwitchList ShowAll="true"/>
+				</SoundcasterSession>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundcasterSessions>
+</WwiseDocument>

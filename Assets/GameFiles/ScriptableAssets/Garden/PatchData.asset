@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3c31c2ab98c36b246a02f68b3f7e4a59, type: 3}
+  m_Name: PatchData
+  m_EditorClassIdentifier: 
+  _dirtMesh: {fileID: -5414655791027698174, guid: c6de122a9961cf648992a01ac156297e, type: 3}
+  _unwatered: {fileID: 2100000, guid: a2c595e71d7c5844ba0971113d3b60d1, type: 2}
+  _watered: {fileID: 2100000, guid: b154dfd95fc2e97488113563b7bba041, type: 2}
+  _default: {fileID: 10752, guid: 0000000000000000f000000000000000, type: 0}
+  _highlight: {fileID: 4800000, guid: 08da5bcd208f4eb4285e9d9f4e4184ff, type: 3}
+  _hybridHighlight: {fileID: 437677676070149231, guid: 54ed5e25091e92a42ba834dceb2d78c3, type: 3}
+  _colliderSize: {x: 0.65, y: 0.1, z: 0.65}

@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e63b98e379f4535a32efe6e539c0798, type: 3}
+  m_Name: Dwarf Stool
+  m_EditorClassIdentifier: 
+  _plantData: {fileID: 11400000, guid: 88fa5cf3aab0abe4f8549430dbc7a183, type: 2}
+  _plantModels: {fileID: 11400000, guid: b014c42fb12c3fb49bc4d55b7f4558e7, type: 2}
+  _traitGenerator: {fileID: 11400000, guid: 635f483f84834644c9d32956ec7cb2e0, type: 2}

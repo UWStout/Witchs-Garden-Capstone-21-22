@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c965e148871f4febb60438c9717575a9, type: 3}
+  m_Name: NCDialogue_Glarus 1
+  m_EditorClassIdentifier: 
+  _openingLine: "Hiya Witch! I was wondering if I could ask for a Hot Chocolate Potion?
+    I've been a little down in the dumps about Nahriel, but something yummy might
+    help. I\u2019ll be waiting in the shop for it, thanks again!"
+  _middleShopLine: "Just waiting for my hot chocolate Potion! Take your time\u2026"
+  _closingLine: Thank you for the Potion, Witch! It looks so yummy; I'll have to
+    tell Nahrry about it!

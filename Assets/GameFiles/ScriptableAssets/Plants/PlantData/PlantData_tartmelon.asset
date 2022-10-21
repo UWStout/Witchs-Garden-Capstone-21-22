@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: be8c88a10fcadc749a0bb34cf6c3d4e9, type: 3}
+  m_Name: PlantData_tartmelon
+  m_EditorClassIdentifier: 
+  _plantName: Tartmelon
+  _plantFlavorText: "A rather bitter melon that only a select few of Windermill seem
+    to like. It\u2019s not highly in demand, but can add a special sort of flavor
+    to potions."
+  _ingredientType: {fileID: 11400000, guid: 6ce6f20f5a4bd0a4da1815cee6e74796, type: 2}
+  _baseStartingAttributes:
+    _quality: 52
+    _yieldAmount: 1
+    _youngStateGrowTime: 3

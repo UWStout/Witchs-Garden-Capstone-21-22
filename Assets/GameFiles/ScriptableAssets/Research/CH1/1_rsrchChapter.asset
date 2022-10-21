@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb5e0e3ff5506f2468ecdea6f36eb25d, type: 3}
+  m_Name: 1_rsrchChapter
+  m_EditorClassIdentifier: 
+  _chID: 0
+  _chapterName: Chapter I - Potion Recipes
+  _chapterFlavorTxt: This chapter is dedicated to learning new potion recipes
+  _chResearchItems:
+  - {fileID: 11400000, guid: ec7365a0a60533e4ba0bcf6308145c62, type: 2}
+  - {fileID: 11400000, guid: 7f5c9c262754a434c824f0e040ef7a19, type: 2}
+  - {fileID: 11400000, guid: 3250c1807d5751d42b2aa51edd8b5663, type: 2}
+  - {fileID: 11400000, guid: 29d000817666f6641bbcc07b96c9c4f4, type: 2}
+  - {fileID: 11400000, guid: 2a0704320f2d75041bf160a29d71c937, type: 2}
+  - {fileID: 11400000, guid: d28e9b72c850b544d980de8c8f59ccf4, type: 2}

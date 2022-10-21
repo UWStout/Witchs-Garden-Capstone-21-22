@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d12a8c37498b24944887309e6cf2b579, type: 3}
+  m_Name: FairyBlossom_ModelSet
+  m_EditorClassIdentifier: 
+  _seedPrefab: {fileID: 4473458981077308535, guid: c46fd5ded44dce74d9ef1bcbd7f813d1, type: 3}
+  _youngPrefab: {fileID: 7054369342834175034, guid: ff7f951b49cf68a4385936a18dad72a1, type: 3}
+  _adultPrefab: {fileID: 2370701969134939390, guid: 0cd43f1edf87ee5449d069a2f79babbb, type: 3}
+  _witheringPrefab: {fileID: 5008463677121482663, guid: 5c91b827fd01bd1429d6d9507a44fbc5, type: 3}
+  _deathPrefab: {fileID: 5057983524896298163, guid: a83e1cf6d49df384dbb7dccd7604b729, type: 3}

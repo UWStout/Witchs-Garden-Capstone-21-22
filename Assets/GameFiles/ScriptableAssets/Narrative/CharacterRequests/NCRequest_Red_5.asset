@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd3e5bbb86424b1d9d75550ef9b81141, type: 3}
+  m_Name: NCRequest_Red_5
+  m_EditorClassIdentifier: 
+  _activationCondition: {fileID: 11400000, guid: 78d8ecc7645c6d440b95339bf29acf9d, type: 2}
+  _invalidCondition: {fileID: 11400000, guid: 059576a60e7daec4dbba03b3d81719ae, type: 2}
+  _characterTemplate: {fileID: 11400000, guid: 75be6c472eba77c428086f2d76ad808a, type: 2}
+  _dialogueLines: {fileID: 11400000, guid: ce94e620846f5ea47a8e4dc26241415a, type: 2}
+  _itemRequest:
+    _item: {fileID: 11400000, guid: c4a66014ad25db6468bec0da7cc966a3, type: 2}
+    _rewardPayloads:
+    - {fileID: 11400000, guid: a74021b50804d544b92b1bec259ecd38, type: 2}
+    - {fileID: 11400000, guid: 1d789cefd219fab4cbca28012d12b1df, type: 2}
+  _isStoryRequired: 1

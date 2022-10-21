@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: be8c88a10fcadc749a0bb34cf6c3d4e9, type: 3}
+  m_Name: PlantData_dwarfStool
+  m_EditorClassIdentifier: 
+  _plantName: Dwarf Stool
+  _plantFlavorText: "An edible mushroom that grows in mass around Windermill, especially
+    in the woods. The people know it quite well and tend to use it in soups for the
+    earthy flavor it gives off.\_"
+  _ingredientType: {fileID: 11400000, guid: 07ed16812976233458f206178cb43e8a, type: 2}
+  _baseStartingAttributes:
+    _quality: 28
+    _yieldAmount: 1
+    _youngStateGrowTime: 1

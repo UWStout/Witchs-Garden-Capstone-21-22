@@ -1,0 +1,26 @@
+{
+  "key": "witchsGarden",
+  "courseID": "Berrier / Arcane Arcade",
+  "title": "The Witch's Garden",
+  "engine": "Unity",
+  "engineVersion": "2020.3.19",
+  "buildPlatforms": ["win64", "macOS"],
+  "descriptionMarkdownURI": "websiteData/description.md",
+  "pageExtras": [
+    { "key": "instructions", "title": "How to Play", "markdownURI": "websiteData/instructions.md" },
+    { "key": "requirements", "title": "Hardware Requirements", "markdownURI": "websiteData/requirements.md" }
+  ],
+  "socialLinks": [
+    { "title": "Web Site", "href": "" },
+    { "title": "Facebook", "href": "" },
+    { "title": "Twitter", "href": "https://twitter.com/ArcaneArcade450" },
+    { "title": "Instagram", "href": "https://www.instagram.com/arcanearcade450/" },
+    { "title": "Snapchat", "href": "" }
+  ],
+  "repo": {
+    "type": "svn",
+    "viewURI": "https://revision.mscs.uwstout.edu/svn/witchsGarden450/",
+    "cloneURI": "svn://10.26.0.27/svn/witchsGarden450/trunk",
+    "evolutionVideo": ""
+  }
+}

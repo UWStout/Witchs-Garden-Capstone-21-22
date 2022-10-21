@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ee16f503b0f627148873a940f9d6b878, type: 3}
+  m_Name: 1_PotionItem_ExcitementPhial
+  m_EditorClassIdentifier: 
+  _ingredientTypes: {fileID: 11400000, guid: 64f78cef866017d43abd8a601d2dd804, type: 2}
+  _itemName: Phial of Excitement
+  _flavorText: "This potion does so many amazing things!\_ Drink it!!\_ Drink it
+    now!!!"
+  _baseValue: 69
+  _itemImage: {fileID: 21300000, guid: f366555a29b3b5944975bbee744fba04, type: 3}
+  _usedOnPlayer: 0
+  _usedOnPlant: 0

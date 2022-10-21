@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb5e0e3ff5506f2468ecdea6f36eb25d, type: 3}
+  m_Name: 6_rsrchChapter
+  m_EditorClassIdentifier: 
+  _chID: 5
+  _chapterName: Chapter VI - Witch Mastery
+  _chapterFlavorTxt: Master the art of witchcraft!
+  _chResearchItems:
+  - {fileID: 11400000, guid: 74600209fb7a0874da0c21ca93ba0150, type: 2}
+  - {fileID: 11400000, guid: 20029241516d86a45a41bda034e69cb9, type: 2}
+  - {fileID: 11400000, guid: 7f39865bbeb010c4e83fdf2dd6e2dfe7, type: 2}
+  - {fileID: 11400000, guid: b58d44e5e2964b94cbb71bf60a2b8a21, type: 2}

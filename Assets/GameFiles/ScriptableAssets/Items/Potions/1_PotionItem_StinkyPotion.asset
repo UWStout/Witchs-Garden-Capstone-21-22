@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ee16f503b0f627148873a940f9d6b878, type: 3}
+  m_Name: 1_PotionItem_StinkyPotion
+  m_EditorClassIdentifier: 
+  _ingredientTypes: {fileID: 11400000, guid: 6f1dcd7541149fe4f9ed2ffb90cfdb0c, type: 2}
+  _itemName: Stinky Potion
+  _flavorText: "Oh\u2026something definitely died in there."
+  _baseValue: 74
+  _itemImage: {fileID: 21300000, guid: cbecf9210b8958a4b8ec742b991baf75, type: 3}
+  _usedOnPlayer: 1
+  _usedOnPlant: 0

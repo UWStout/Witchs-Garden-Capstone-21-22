@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ee16f503b0f627148873a940f9d6b878, type: 3}
+  m_Name: 1_PotionItem_DeathFlask
+  m_EditorClassIdentifier: 
+  _ingredientTypes: {fileID: 11400000, guid: b568b69e927eabe4c9c7df3d498b0aad, type: 2}
+  _itemName: Flask of Death
+  _flavorText: Short and painless.
+  _baseValue: 81
+  _itemImage: {fileID: 21300000, guid: cdd47edee436ea440b011db07be43a65, type: 3}
+  _usedOnPlayer: 0
+  _usedOnPlant: 0

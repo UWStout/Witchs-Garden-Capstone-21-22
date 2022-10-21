@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f9825ee7ccf59d148a43785a7785d733, type: 3}
+  m_Name: FirstNight_Prompt 2
+  m_EditorClassIdentifier: 
+  _text: "When you are all done working in your shop for the night, don\u2019t forget
+    to lay your head down and take a rest in the <b>Bed</b>!"
+  _image: {fileID: 0}
+  _isDialogueBox: 1
+  _turn: 1
+  _whileDay: 0
